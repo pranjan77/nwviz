@@ -1,0 +1,110 @@
+<!doctype html>
+<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="en"> <![endif]-->
+<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="en"> <![endif]-->
+<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="en"> <![endif]-->
+<!--[if gt IE 8]><!--> <html class="no-js" lang="en"> <!--<![endif]-->
+<head>
+  <meta charset="utf-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+
+  <title>Song Networks: Interative Network Tutorial</title>
+  <meta name="description" content="Demo for How to Build an Interactive Network Visualization.">
+  <meta name="author" content="Jim Vallandingham">
+
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+
+  <!-- CSS concatenated and minified via ant build script-->
+  <link rel="stylesheet" href="/css/reset.css">
+  <link rel="stylesheet" href="/css/bootstrap.min.css">
+  <link rel="stylesheet" href="/css/style.css">
+  <!-- end CSS-->
+
+  <script src="/js/libs/modernizr-2.0.6.min.js"></script>
+</head>
+
+<body>
+
+  <div id="container" class="container">
+    <header>
+    <h1>Display and search network</h1>
+    </header>
+
+      <div id="song_selection" class="control">
+        <h3>Select network</h3>
+        <select id="song_select">
+			<option value="phenology_BF_v2_100genes-merged.json">(332) phenology_BF_v2_100genes-merged-all-networks.json</option>
+			<option value="phenology_BF_v2_100genes-netdataset.plant.cn.15.json">(177) phenology_BF_v2_100genes 177Coexpression Network for Populus trichocarpa on shoot</option>
+			<option value="phenology_BF_v2_100genes-netdataset.plant.cn.14.json">(60) phenology_BF_v2_100genes 60Coexpression Network for Populus trichocarpa on seed</option>
+			<option value="phenology_BF_v2_100genes-netdataset.plant.cn.11.json">(59) phenology_BF_v2_100genes 59Coexpression Network for Populus trichocarpa on drought</option>
+			<option value="phenology_BF_v2_100genes-netdataset.plant.cn.16.json">(34) phenology_BF_v2_100genes 34Coexpression Network for Populus trichocarpa on xylem</option>
+			<option value="phenology_BF_v2_100genes-netdataset.plant.cn.13.json">(16) phenology_BF_v2_100genes 16Coexpression Network for Populus trichocarpa on root</option>
+			<option value="phenology_BF_v2_100genes-netdataset.plant.fn.27.json">(7) phenology_BF_v2_100genes 7PopNet : Probablistic Functional Association Network for Populus projected from AraNet (www.functionalnet.org/aranet) and RiceNet networks</option>
+			<option value="phenology_BF_v2_100genes-netdataset.plant.cn.12.json">(6) phenology_BF_v2_100genes 6Coexpression Network for Populus trichocarpa on leaf</option>
+			<option value="phenology_BF_v2_100genes-netdataset.plant.ppi.1.json">(1) phenology_BF_v2_100genes 1Populus trichocarpa  PPI interologs projected from Arabidopsis thaliana PPIs using bi-directional best hit orthologs</option>
+			<option value="phenology_BF_v2_100genes-netdataset.plant.ppi.2.json">(1) phenology_BF_v2_100genes 1Populus trichocarpa PPI interologs projected from Arabidopsis thaliana PPIs using one to many orthologs</option>
+			<option value="phenology_BF_gene_v2_signif-merged.json">(24102) phenology_BF_gene_v2_signif-merged-all-networks.json</option>
+			<option value="phenology_BF_gene_v2_signif-netdataset.plant.cn.15.json">(13287) phenology_BF_gene_v2_signif 13287Coexpression Network for Populus trichocarpa on shoot</option>
+			<option value="phenology_BF_gene_v2_signif-netdataset.plant.cn.11.json">(5256) phenology_BF_gene_v2_signif 5256Coexpression Network for Populus trichocarpa on drought</option>
+			<option value="phenology_BF_gene_v2_signif-netdataset.plant.cn.14.json">(3671) phenology_BF_gene_v2_signif 3671Coexpression Network for Populus trichocarpa on seed</option>
+			<option value="phenology_BF_gene_v2_signif-netdataset.plant.cn.13.json">(1454) phenology_BF_gene_v2_signif 1454Coexpression Network for Populus trichocarpa on root</option>
+			<option value="phenology_BF_gene_v2_signif-netdataset.plant.cn.16.json">(1429) phenology_BF_gene_v2_signif 1429Coexpression Network for Populus trichocarpa on xylem</option>
+			<option value="phenology_BF_gene_v2_signif-netdataset.plant.fn.27.json">(630) phenology_BF_gene_v2_signif 630PopNet : Probablistic Functional Association Network for Populus projected from AraNet (www.functionalnet.org/aranet) and RiceNet networks</option>
+			<option value="phenology_BF_gene_v2_signif-netdataset.plant.cn.12.json">(317) phenology_BF_gene_v2_signif 317Coexpression Network for Populus trichocarpa on leaf</option>
+			<option value="phenology_BF_gene_v2_signif-netdataset.plant.ppi.2.json">(12) phenology_BF_gene_v2_signif 12Populus trichocarpa PPI interologs projected from Arabidopsis thaliana PPIs using one to many orthologs</option>
+			<option value="phenology_BF_gene_v2_signif-netdataset.plant.ppi.1.json">(7) phenology_BF_gene_v2_signif 7Populus trichocarpa  PPI interologs projected from Arabidopsis thaliana PPIs using bi-directional best hit orthologs</option>
+			<option value="phenology_spa_v2-merged.json">(54) phenology_spa_v2-merged-all-networks.json</option>
+			<option value="phenology_spa_v2-netdataset.plant.cn.15.json">(37) phenology_spa_v2 37Coexpression Network for Populus trichocarpa on shoot</option>
+			<option value="phenology_spa_v2-netdataset.plant.cn.11.json">(11) phenology_spa_v2 11Coexpression Network for Populus trichocarpa on drought</option>
+			<option value="phenology_spa_v2-netdataset.plant.cn.16.json">(5) phenology_spa_v2 5Coexpression Network for Populus trichocarpa on xylem</option>
+			<option value="phenology_spa_v2-netdataset.plant.ppi.1.json">(2) phenology_spa_v2 2Populus trichocarpa  PPI interologs projected fromArabidopsis thaliana PPIs using bi-directional best hit orthologs</option>
+			<option value="phenology_spa_v2-netdataset.plant.ppi.2.json">(2) phenology_spa_v2 2Populus trichocarpa PPI interologs projected from Arabidopsis thaliana PPIs using one to many orthologs</option>
+			<option value="phenology_spa_v2-netdataset.plant.fn.27.json">(1) phenology_spa_v2 1PopNet : Probablistic Functional Association Network for Populus projected from AraNet (www.functionalnet.org/aranet) and RiceNet networks</option>
+			<option value="phenology_spa_v2-netdataset.plant.cn.13.json">(1) phenology_spa_v2 1Coexpression Network for Populus trichocarpa on root</option>
+			<option value="phenology_spa_v2-netdataset.plant.cn.14.json">(1) phenology_spa_v2 1Coexpression Network for Populus trichocarpa on seed</option>
+        </select>
+
+      </div>
+    <div id="controls">
+      <div id="layouts" class="control">
+        <h3>Layout</h3>
+        <a id="force" class="active">Force Directed</a>
+        <a id="radial">Circular</a>
+      </div>
+      <div id="filters" class="control">
+        <h3>Filter</h3>
+        <a id="all" class="active">All</a>
+        <a id="popular">Popular</a>
+        <a id="obscure">Obscure</a>
+      </div>
+      <div id="sorts" class="control">
+        <h3>Sort</h3>
+        <a id="songs" class="active">Genes</a>
+        <a id="links">Links</a>
+      </div>
+      <div id="search_section" class="control">
+        <form id="search_form" action=""  method="post">
+          <p class="search_title">Search <input type="text" class="text-input" id="search" value="" /></p>
+        </form>
+      </div>
+    <div id="main" role="main">
+      <div id="vis"></div>
+    </div>
+    <footer>
+
+    </footer>
+  </div> <!--! end of #container -->
+
+
+  <script>window.jQuery || document.write('<script src="/js/libs/jquery-1.7.2.min.js"><\/script>')</script>
+
+
+  <script defer src="/js/plugins.js"></script>
+  <script defer src="/js/script.js"></script>
+  <script src="/js/libs/coffee-script.js"></script>
+  <script src="/js/libs/d3.v2.js"></script>
+  <script src="/js/Tooltip.js"></script>
+  <script type="text/coffeescript" src="/coffee/vis.coffee2"></script>
+
+  
+</body>
+</html>

@@ -1,0 +1,2225 @@
+{
+"nodes": [
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07740 AT: AT1G65470.1<br>Annotation: FAS1 (FASCIATA 1); histone binding<br>GO : ",
+      "artist": "POPTR_0008s07740",
+      "id": "POPTR_0008s07740",
+      "color": "#088da5",
+      "playcount": 17
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0002s00360 AT: AT1G21065.1<br>Annotation: unknown protein<br>GO : chloroplast - ",
+      "artist": "POPTR_0002s00360",
+      "id": "POPTR_0002s00360",
+      "color": "#088da5",
+      "playcount": 12
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s11150 AT: AT1G13635.1<br>Annotation: methyladenine glycosylase family protein<br>GO : DNA repair - base-excision repair - DNA-3-methyladenine glycosylase I activity - catalytic activity - ",
+      "artist": "POPTR_0008s11150",
+      "id": "POPTR_0008s11150",
+      "color": "#088da5",
+      "playcount": 14
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s21200 AT: AT1G55460.1<br>Annotation: Kin17 DNA-binding protein-related<br>GO : intracellular - zinc ion binding - nucleic acid binding - ",
+      "artist": "POPTR_0010s21200",
+      "id": "POPTR_0010s21200",
+      "color": "#088da5",
+      "playcount": 13
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0014s11710 AT: AT3G62550.1<br>Annotation: universal stress protein (USP) family protein<br>GO : response to stress - ",
+      "artist": "POPTR_0014s11710",
+      "id": "POPTR_0014s11710",
+      "color": "#088da5",
+      "playcount": 22
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0007s15010 AT: AT5G10530.1<br>Annotation: lectin protein kinase, putative<br>GO : protein serine/threonine kinase activity - ATP binding - sugar binding - protein kinase activity - protein phosphorylation - binding - ",
+      "artist": "POPTR_0007s15010",
+      "id": "POPTR_0007s15010",
+      "color": "#088da5",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0012s10180 AT: AT3G48660.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0012s10180",
+      "id": "POPTR_0012s10180",
+      "color": "#088da5",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0013s01240 AT: AT3G05710.2<br>Annotation: SYP43 (SYNTAXIN OF PLANTS 43); SNAP receptor<br>GO : intracellular protein transport - membrane - SNAP receptor activity - protein binding - trans-Golgi network - vesicle-mediated transport - ",
+      "artist": "POPTR_0013s01240",
+      "id": "POPTR_0013s01240",
+      "color": "#088da5",
+      "playcount": 9
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0001s15810 AT: AT3G03490.1<br>Annotation: PEX19-1 (peroxin 19-1)<br>GO : cytosol - peroxisome - ",
+      "artist": "POPTR_0001s15810",
+      "id": "POPTR_0001s15810",
+      "color": "#088da5",
+      "playcount": 10
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s08230 AT: AT4G39680.1<br>Annotation: SAP domain-containing protein<br>GO : cytosol - chloroplast - nucleic acid binding - ",
+      "artist": "POPTR_0005s08230",
+      "id": "POPTR_0005s08230",
+      "color": "#088da5",
+      "playcount": 6
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0013s15230 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0013s15230",
+      "id": "POPTR_0013s15230",
+      "color": "#088da5",
+      "playcount": 18
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s09370 AT: AT3G22740.1<br>Annotation: HMT3; homocysteine S-methyltransferase<br>GO : methyltransferase activity - homocysteine S-methyltransferase activity - transferase activity - methylation - plasma membrane - ",
+      "artist": "POPTR_0010s09370",
+      "id": "POPTR_0010s09370",
+      "color": "#088da5",
+      "playcount": 5
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0013s06680 AT: AT4G02600.1<br>Annotation: MLO1; calmodulin binding<br>GO : integral to membrane - cell death - ",
+      "artist": "POPTR_0013s06680",
+      "id": "POPTR_0013s06680",
+      "color": "#088da5",
+      "playcount": 14
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0016s05500 AT: AT3G57520.1<br>Annotation: AtSIP2 (Arabidopsis thaliana seed imbibition 2); hydrolase, hydrolyzing O-glycosyl compounds<br>GO : metabolic process - response to karrikin - catalytic activity - ",
+      "artist": "POPTR_0016s05500",
+      "id": "POPTR_0016s05500",
+      "color": "#088da5",
+      "playcount": 18
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s06400 AT: AT3G55770.1<br>Annotation: LIM domain-containing protein<br>GO : actin filament binding - actin filament bundle assembly - zinc ion binding - ",
+      "artist": "POPTR_0008s06400",
+      "id": "POPTR_0008s06400",
+      "color": "#088da5",
+      "playcount": 14
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0009s16600 AT: AT5G22450.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0009s16600",
+      "id": "POPTR_0009s16600",
+      "color": "#088da5",
+      "playcount": 3
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s00490 AT: AT3G20250.1<br>Annotation: APUM5 (Arabidopsis Pumilio 5); RNA binding / binding<br>GO : RNA binding - ATP binding - cytoplasm - binding - nucleotide binding - tRNA aminoacylation for protein translation - translation - aminoacyl-tRNA ligase activity - ",
+      "artist": "POPTR_0008s00490",
+      "id": "POPTR_0008s00490",
+      "color": "#088da5",
+      "playcount": 33
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0002s16850 AT: AT4G01150.1<br>Annotation: unknown protein<br>GO : chloroplast thylakoid membrane - plastoglobule - chloroplast envelope - thylakoid - chloroplast - ",
+      "artist": "POPTR_0002s16850",
+      "id": "POPTR_0002s16850",
+      "color": "#088da5",
+      "playcount": 16
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0002s01780 AT: AT1G20330.1<br>Annotation: SMT2 (STEROL METHYLTRANSFERASE 2); S-adenosylmethionine-dependent methyltransferase<br>GO : steroid biosynthetic process - xylem and phloem pattern formation - sterol biosynthetic process - S-adenosylmethionine-dependent methyltransferase activity - metabolic process - methyltransferase activity - pattern specification process - multidimensional cell growth - negative regulation of DNA endoreduplication - methylation - lipid biosynthetic process - ",
+      "artist": "POPTR_0002s01780",
+      "id": "POPTR_0002s01780",
+      "color": "#088da5",
+      "playcount": 11
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07700 AT: AT2G43240.1<br>Annotation: nucleotide-sugar transmembrane transporter/ sugar:hydrogen symporter<br>GO : carbohydrate transport - transmembrane transport - integral to membrane - sugar:hydrogen symporter activity - Golgi membrane - ",
+      "artist": "POPTR_0008s07700",
+      "id": "POPTR_0008s07700",
+      "color": "#088da5",
+      "playcount": 12
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07760 AT: AT5G16250.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0008s07760",
+      "id": "POPTR_0008s07760",
+      "color": "#088da5",
+      "playcount": 21
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0006s14860 AT: AT2G19390.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0006s14860",
+      "id": "POPTR_0006s14860",
+      "color": "#088da5",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0017s13990 AT: AT5G38650.1<br>Annotation: proteasome maturation factor UMP1 family protein<br>GO : ",
+      "artist": "POPTR_0017s13990",
+      "id": "POPTR_0017s13990",
+      "color": "#088da5",
+      "playcount": 10
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0009s11300 AT: AT1G49430.1<br>Annotation: LACS2 (LONG-CHAIN ACYL-COA SYNTHETASE 2); long-chain-fatty-acid-CoA ligase<br>GO : defense response to fungus - cutin biosynthetic process - metabolic process - lateral root formation - wax biosynthetic process - long-chain fatty acid-CoA ligase activity - catalytic activity - very long-chain fatty acid-CoA ligase activity - ",
+      "artist": "POPTR_0009s11300",
+      "id": "POPTR_0009s11300",
+      "color": "#088da5",
+      "playcount": 17
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07330 AT: AT2G40320.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0008s07330",
+      "id": "POPTR_0008s07330",
+      "color": "#088da5",
+      "playcount": 21
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0013s01250 AT: AT3G05700.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0013s01250",
+      "id": "POPTR_0013s01250",
+      "color": "#088da5",
+      "playcount": 21
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s09420 AT: AT4G14790.1<br>Annotation: ATSUV3; ATP-dependent RNA helicase<br>GO : RNA metabolic process - pollen development - ATP binding - helicase activity - nucleic acid binding - ATP-dependent RNA helicase activity - megagametogenesis - mitochondrion - ",
+      "artist": "POPTR_0010s09420",
+      "id": "POPTR_0010s09420",
+      "color": "#088da5",
+      "playcount": 4
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0002s02940 AT: AT1G05150.1<br>Annotation: calcium-binding EF hand family protein<br>GO : protein binding - calcium ion binding - zinc ion binding - plasma membrane - binding - ",
+      "artist": "POPTR_0002s02940",
+      "id": "POPTR_0002s02940",
+      "color": "#088da5",
+      "playcount": 11
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0002s00350 AT: AT5G42380.1<br>Annotation: CML37 (CALMODULIN LIKE 37); calcium ion binding<br>GO : calcium ion binding - ",
+      "artist": "POPTR_0002s00350",
+      "id": "POPTR_0002s00350",
+      "color": "#088da5",
+      "playcount": 7
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0002s08650 AT: AT1G77670.1<br>Annotation: aminotransferase class I and II family protein<br>GO : 1-aminocyclopropane-1-carboxylate biosynthetic process - transferase activity, transferring nitrogenous groups - biosynthetic process - catalytic activity - 1-aminocyclopropane-1-carboxylate synthase activity - pyridoxal phosphate binding - ",
+      "artist": "POPTR_0002s08650",
+      "id": "POPTR_0002s08650",
+      "color": "#088da5",
+      "playcount": 14
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s06530 AT: AT2G13610.1<br>Annotation: ABC transporter family protein<br>GO : membrane - phosphopantetheine binding - ATP binding - nucleotide binding - ATP catabolic process - nucleoside-triphosphatase activity - ATPase activity - ",
+      "artist": "POPTR_0005s06530",
+      "id": "POPTR_0005s06530",
+      "color": "#088da5",
+      "playcount": 16
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s23600 AT: AT5G04360.1<br>Annotation: ATLDA (LIMIT DEXTRINASE); alpha-amylase/ limit dextrinase/ pullulanase<br>GO : starch biosynthetic process - hydrolase activity, hydrolyzing O-glycosyl compounds - cation binding - limit dextrinase activity - carbohydrate metabolic process - catalytic activity - pullulanase activity - chloroplast - ",
+      "artist": "POPTR_0010s23600",
+      "id": "POPTR_0010s23600",
+      "color": "#088da5",
+      "playcount": 18
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0014s12540 AT: AT1G02880.3<br>Annotation: TPK1 (THIAMIN PYROPHOSPHOKINASE1); thiamin diphosphokinase<br>GO : thiamine diphosphokinase activity - ATP binding - cytosol - thiamine metabolic process - thiamine diphosphate biosynthetic process - ",
+      "artist": "POPTR_0014s12540",
+      "id": "POPTR_0014s12540",
+      "color": "#088da5",
+      "playcount": 3
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0013s01230 AT: AT5G07090.1<br>Annotation: 40S ribosomal protein S4 (RPS4B)<br>GO : ribosome - RNA binding - translation - intracellular - structural constituent of ribosome - ",
+      "artist": "POPTR_0013s01230",
+      "id": "POPTR_0013s01230",
+      "color": "#088da5",
+      "playcount": 13
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0190s00210 AT: AT5G23530.1<br>Annotation: AtCXE18 (Arabidopsis thaliana carboxyesterase 18); carboxylesterase<br>GO : metabolic process - hydrolase activity - ",
+      "artist": "POPTR_0190s00210",
+      "id": "POPTR_0190s00210",
+      "color": "#088da5",
+      "playcount": 7
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0019s10160 AT: AT5G49900.1<br>Annotation: catalytic/ glucosylceramidase<br>GO : membrane - metabolic process - catalytic activity - vacuole - hydrolase activity, acting on glycosyl bonds - hydrolase activity - sphingolipid metabolic process - integral to membrane - glucosylceramide catabolic process - plasma membrane - glucosylceramidase activity - lipid metabolic process - ",
+      "artist": "POPTR_0019s10160",
+      "id": "POPTR_0019s10160",
+      "color": "#088da5",
+      "playcount": 16
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07710 AT: AT5G36700.1<br>Annotation: PGLP1 (2-PHOSPHOGLYCOLATE PHOSPHATASE 1); phosphoglycolate phosphatase<br>GO : nucleus - apoplast - metabolic process - catalytic activity - cytoplasm - phosphatase activity - vacuole - hydrolase activity - dephosphorylation - chloroplast stroma - chloroplast - ",
+      "artist": "POPTR_0008s07710",
+      "id": "POPTR_0008s07710",
+      "color": "#088da5",
+      "playcount": 6
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07680 AT: AT1G65430.1<br>Annotation: zinc finger protein-related<br>GO : metal ion binding - protein binding - intracellular - zinc ion binding - nucleic acid binding - ubiquitin-protein ligase activity - ",
+      "artist": "POPTR_0008s07680",
+      "id": "POPTR_0008s07680",
+      "color": "#088da5",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0017s14000 AT: AT5G38640.1<br>Annotation: eukaryotic translation initiation factor 2B family protein / eIF-2B family protein<br>GO : cellular metabolic process - ",
+      "artist": "POPTR_0017s14000",
+      "id": "POPTR_0017s14000",
+      "color": "#088da5",
+      "playcount": 4
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s06080 AT: (blank)<br>Annotation: (blank)<br>GO : hydrolase activity, hydrolyzing O-glycosyl compounds - cation binding - carbohydrate metabolic process - catalytic activity - ",
+      "artist": "POPTR_0005s06080",
+      "id": "POPTR_0005s06080",
+      "color": "#088da5",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s08180 AT: AT3G47570.1<br>Annotation: leucine-rich repeat transmembrane protein kinase, putative<br>GO : membrane - ATP binding - protein ubiquitination - defense response to bacterium - cytoplasmic membrane-bounded vesicle - detection of bacterium - regulation of anion channel activity - protein binding - nucleotide binding - protein kinase activity - immune response-regulating signaling pathway - integral to membrane - plasma membrane - chloroplast - defense response signaling pathway, resistance gene-independent - protein phosphorylation - secretion by cell - plant-type hypersensitive response - protein serine/threonine kinase activity - ",
+      "artist": "POPTR_0005s08180",
+      "id": "POPTR_0005s08180",
+      "color": "#088da5",
+      "playcount": 23
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0019s03470 AT: AT2G39840.1<br>Annotation: TOPP4; protein serine/threonine phosphatase<br>GO : hydrolase activity - phosphoprotein phosphatase activity - ",
+      "artist": "POPTR_0019s03470",
+      "id": "POPTR_0019s03470",
+      "color": "#088da5",
+      "playcount": 25
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0016s07120 AT: AT2G01820.1<br>Annotation: leucine-rich repeat protein kinase, putative<br>GO : membrane - ATP binding - protein phosphorylation - protein serine/threonine kinase activity - protein binding - nucleotide binding - protein kinase activity - integral to membrane - ",
+      "artist": "POPTR_0016s07120",
+      "id": "POPTR_0016s07120",
+      "color": "#088da5",
+      "playcount": 31
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s23580 AT: AT5G49900.1<br>Annotation: catalytic/ glucosylceramidase<br>GO : membrane - metabolic process - catalytic activity - hydrolase activity, acting on glycosyl bonds - hydrolase activity - sphingolipid metabolic process - integral to membrane - glucosylceramide catabolic process - plasma membrane - glucosylceramidase activity - lipid metabolic process - ",
+      "artist": "POPTR_0004s23580",
+      "id": "POPTR_0004s23580",
+      "color": "#088da5",
+      "playcount": 14
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0013s01270 AT: AT3G05670.1<br>Annotation: PHD finger family protein<br>GO : metal ion binding - protein binding - zinc ion binding - ",
+      "artist": "POPTR_0013s01270",
+      "id": "POPTR_0013s01270",
+      "color": "#088da5",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0014s02580 AT: AT4G27410.2<br>Annotation: RD26 (RESPONSIVE TO DESICCATION 26); transcription activator/ transcription factor<br>GO : DNA binding - regulation of transcription - ",
+      "artist": "POPTR_0014s02580",
+      "id": "POPTR_0014s02580",
+      "color": "#088da5",
+      "playcount": 8
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0011s12270 AT: AT4G27450.1<br>Annotation: unknown protein<br>GO : nucleus - cytosol - plasma membrane - ",
+      "artist": "POPTR_0011s12270",
+      "id": "POPTR_0011s12270",
+      "color": "#088da5",
+      "playcount": 14
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0011s12280 AT: AT3G15460.1<br>Annotation: brix domain-containing protein<br>GO : ATP binding - translation - aminoacyl-tRNA ligase activity - ",
+      "artist": "POPTR_0011s12280",
+      "id": "POPTR_0011s12280",
+      "color": "#088da5",
+      "playcount": 14
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s06090 AT: AT5G24550.1<br>Annotation: BGLU32 (BETA GLUCOSIDASE 32); catalytic/ cation binding / hydrolase, hydrolyzing O-glycosyl compounds<br>GO : membrane - endoplasmic reticulum - abscisic acid metabolic process - glucosinolate metabolic process - cellular response to cold - ER body organization - thioglucosidase activity - copper ion binding - response to other organism - chloroplast envelope - abscisic acid glucose ester beta-glucosidase activity - defense response by callose deposition in cell wall - identical protein binding - catalytic activity - beta-glucosidase activity - cation binding - response to karrikin - cellular response to salt stress - defense response to fungus, incompatible interaction - response to water deprivation - response to osmotic stress - ER body - response to symbiotic fungus - defense response to bacterium - peroxisome - indole glucosinolate catabolic process - hydrolase activity, hydrolyzing O-glycosyl compounds - response to salt stress - carbohydrate metabolic process - chloroplast - defense response to fungus - nucleus - aging - vacuole - ",
+      "artist": "POPTR_0005s06090",
+      "id": "POPTR_0005s06090",
+      "color": "#088da5",
+      "playcount": 13
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0003s19750 AT: AT5G13480.1<br>Annotation: FY; protein binding<br>GO : molecular_function - mRNA processing - CUL4 RING ubiquitin ligase complex - protein binding - cell - regulation of flower development - mRNA 3-end processing - embryonic development via the syncytial blastoderm - embryo development ending in seed dormancy - ",
+      "artist": "POPTR_0003s19750",
+      "id": "POPTR_0003s19750",
+      "color": "#088da5",
+      "playcount": 7
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s18860 AT: AT5G67350.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0005s18860",
+      "id": "POPTR_0005s18860",
+      "color": "#088da5",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0012s06700 AT: AT5G07960.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0012s06700",
+      "id": "POPTR_0012s06700",
+      "color": "#088da5",
+      "playcount": 7
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0003s22040 AT: AT3G20780.1<br>Annotation: ATTOP6B (topoisomerase 6 subunit B); DNA topoisomerase (ATP-hydrolyzing)/ identical protein binding / protein binding<br>GO : DNA binding - response to brassinosteroid stimulus - ATP binding - identical protein binding - DNA topoisomerase (ATP-hydrolyzing) activity - DNA endoreduplication - chromosome - pattern specification process - trichome differentiation - DNA topological change - ",
+      "artist": "POPTR_0003s22040",
+      "id": "POPTR_0003s22040",
+      "color": "#088da5",
+      "playcount": 4
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0009s02090 AT: AT5G22050.2<br>Annotation: protein kinase family protein<br>GO : protein serine/threonine kinase activity - ATP binding - protein kinase activity - protein phosphorylation - plasma membrane - ",
+      "artist": "POPTR_0009s02090",
+      "id": "POPTR_0009s02090",
+      "color": "#088da5",
+      "playcount": 2
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0003s22050 AT: AT3G20790.1<br>Annotation: oxidoreductase family protein<br>GO : metabolic process - oxidation-reduction process - oxidoreductase activity - ",
+      "artist": "POPTR_0003s22050",
+      "id": "POPTR_0003s22050",
+      "color": "#088da5",
+      "playcount": 3
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0003s05270 AT: AT3G16060.1<br>Annotation: kinesin motor family protein<br>GO : microtubule-based movement - nucleus - ATP binding - nucleotide binding - microtubule motor activity - plasma membrane - ",
+      "artist": "POPTR_0003s05270",
+      "id": "POPTR_0003s05270",
+      "color": "#088da5",
+      "playcount": 13
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07790 AT: AT5G16270.1<br>Annotation: SYN4 (SISTER CHROMATID COHESION 1 PROTEIN 4)<br>GO : nuclear chromosome - protein binding - ",
+      "artist": "POPTR_0008s07790",
+      "id": "POPTR_0008s07790",
+      "color": "#088da5",
+      "playcount": 8
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0009s15190 AT: AT5G22740.1<br>Annotation: ATCSLA02; mannan synthase/ transferase, transferring glycosyl groups<br>GO : mannan synthase activity - ",
+      "artist": "POPTR_0009s15190",
+      "id": "POPTR_0009s15190",
+      "color": "#088da5",
+      "playcount": 10
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07630 AT: AT1G06990.1<br>Annotation: GDSL-motif lipase/hydrolase family protein<br>GO : hydrolase activity - lipid metabolic process - hydrolase activity, acting on ester bonds - ",
+      "artist": "POPTR_0008s07630",
+      "id": "POPTR_0008s07630",
+      "color": "#088da5",
+      "playcount": 11
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0007s10680 AT: AT5G67220.1<br>Annotation: nitrogen regulation family protein<br>GO : metabolic process - tRNA dihydrouridine synthase activity - flavin adenine dinucleotide binding - catalytic activity - oxidation-reduction process - tRNA processing - oxidoreductase activity - ",
+      "artist": "POPTR_0007s10680",
+      "id": "POPTR_0007s10680",
+      "color": "#088da5",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07750 AT: AT3G02630.1<br>Annotation: acyl-(acyl-carrier-protein) desaturase, putative / stearoyl-ACP desaturase, putative<br>GO : acyl-[acyl-carrier-protein] desaturase activity - fatty acid metabolic process - transition metal ion binding - oxidation-reduction process - chloroplast - chloroplast stroma - oxidoreductase activity - ",
+      "artist": "POPTR_0008s07750",
+      "id": "POPTR_0008s07750",
+      "color": "#088da5",
+      "playcount": 19
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07650 AT: AT3G59470.1<br>Annotation: far-red impaired responsive family protein / FAR1 family protein<br>GO : ",
+      "artist": "POPTR_0008s07650",
+      "id": "POPTR_0008s07650",
+      "color": "#088da5",
+      "playcount": 19
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0009s16610 AT: AT3G44460.1<br>Annotation: DPBF2; DNA binding / transcription activator/ transcription activator binding / transcription factor<br>GO : regulation of transcription, DNA-dependent - sequence-specific DNA binding - transcription, DNA-dependent - sequence-specific DNA binding transcription factor activity - protein dimerization activity - ",
+      "artist": "POPTR_0009s16610",
+      "id": "POPTR_0009s16610",
+      "color": "#088da5",
+      "playcount": 13
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07670 AT: AT3G03305.1<br>Annotation: calcineurin-like phosphoesterase family protein<br>GO : hydrolase activity - ",
+      "artist": "POPTR_0008s07670",
+      "id": "POPTR_0008s07670",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07720 AT: AT1G05860.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0008s07720",
+      "id": "POPTR_0008s07720",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07730 AT: AT1G65480.1<br>Annotation: FT (FLOWERING LOCUS T); phosphatidylethanolamine binding / protein binding<br>GO : nucleus - regulation of flower development - cytoplasm - positive regulation of flower development - photoperiodism, flowering - ",
+      "artist": "POPTR_0008s07730",
+      "id": "POPTR_0008s07730",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0013s14310 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0013s14310",
+      "id": "POPTR_0013s14310",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s21190 AT: AT5G42130.1<br>Annotation: mitochondrial substrate carrier family protein<br>GO : transport - membrane - transmembrane transport - integral to membrane - binding - chloroplast - ",
+      "artist": "POPTR_0005s21190",
+      "id": "POPTR_0005s21190",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s06030 AT: AT4G33467.2<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0005s06030",
+      "id": "POPTR_0005s06030",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0021s00570 AT: (blank)<br>Annotation: (blank)<br>GO : nucleus - DNA binding - transcription - regulation of transcription, DNA-dependent - regulation of transcription - ",
+      "artist": "POPTR_0021s00570",
+      "id": "POPTR_0021s00570",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s02420 AT: AT3G18670.1<br>Annotation: ankyrin repeat family protein<br>GO : protein binding - ",
+      "artist": "POPTR_0008s02420",
+      "id": "POPTR_0008s02420",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0009s02080 AT: AT5G07900.1<br>Annotation: mitochondrial transcription termination factor family protein / mTERF family protein<br>GO : ",
+      "artist": "POPTR_0009s02080",
+      "id": "POPTR_0009s02080",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0007s15000 AT: AT5G10530.1<br>Annotation: lectin protein kinase, putative<br>GO : protein serine/threonine kinase activity - ATP binding - sugar binding - protein kinase activity - protein phosphorylation - binding - ",
+      "artist": "POPTR_0007s15000",
+      "id": "POPTR_0007s15000",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0012s14690 AT: AT3G26040.1<br>Annotation: transferase family protein<br>GO : transferase activity, transferring acyl groups other than amino-acyl groups - ",
+      "artist": "POPTR_0012s14690",
+      "id": "POPTR_0012s14690",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s06100 AT: AT5G64600.1<br>Annotation: unknown protein<br>GO : nucleus - cytoplasm - ",
+      "artist": "POPTR_0005s06100",
+      "id": "POPTR_0005s06100",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0013s01260 AT: AT2G20710.1<br>Annotation: pentatricopeptide (PPR) repeat-containing protein<br>GO : ",
+      "artist": "POPTR_0013s01260",
+      "id": "POPTR_0013s01260",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0815s00210 AT: AT4G08950.1<br>Annotation: EXO (EXORDIUM)<br>GO : plant-type cell wall - ",
+      "artist": "POPTR_0815s00210",
+      "id": "POPTR_0815s00210",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s23210 AT: AT5G49960.1<br>Annotation: binding / catalytic<br>GO : metabolic process - catalytic activity - binding - ",
+      "artist": "POPTR_0004s23210",
+      "id": "POPTR_0004s23210",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07660 AT: AT1G65420.1<br>Annotation: unknown protein<br>GO : nonphotochemical quenching - chloroplast - ",
+      "artist": "POPTR_0008s07660",
+      "id": "POPTR_0008s07660",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0011s12320 AT: AT3G15470.1<br>Annotation: WD-40 repeat family protein<br>GO : protein binding - ",
+      "artist": "POPTR_0011s12320",
+      "id": "POPTR_0011s12320",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s02340 AT: AT4G23180.1<br>Annotation: CRK10 (CYSTEINE-RICH RLK10); ATP binding / kinase/ protein kinase/ protein serine/threonine kinase/ protein tyrosine kinase<br>GO : protein serine/threonine kinase activity - ATP binding - protein kinase activity - methyltransferase activity - protein phosphorylation - methylation - nucleic acid binding - ",
+      "artist": "POPTR_0004s02340",
+      "id": "POPTR_0004s02340",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0016s07130 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0016s07130",
+      "id": "POPTR_0016s07130",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0012s02500 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0012s02500",
+      "id": "POPTR_0012s02500",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s07640 AT: AT2G30220.1<br>Annotation: GDSL-motif lipase/hydrolase family protein<br>GO : hydrolase activity - lipid metabolic process - hydrolase activity, acting on ester bonds - ",
+      "artist": "POPTR_0008s07640",
+      "id": "POPTR_0008s07640",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s07640 AT: AT4G39910.1<br>Annotation: ATUBP3 (ARABIDOPSIS THALIANA UBIQUITIN-SPECIFIC PROTEASE 3); ubiquitin-specific protease<br>GO : nucleus - ubiquitin-dependent protein catabolic process - ubiquitin thiolesterase activity - ",
+      "artist": "POPTR_0005s07640",
+      "id": "POPTR_0005s07640",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s09380 AT: AT3G22690.1<br>Annotation: pentatricopeptide (PPR) repeat-containing protein<br>GO : binding - ",
+      "artist": "POPTR_0010s09380",
+      "id": "POPTR_0010s09380",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s04910 AT: AT5G46070.1<br>Annotation: GTP binding / GTPase<br>GO : nucleolus - GTP catabolic process - GTP binding - chloroplast - GTPase activity - ",
+      "artist": "POPTR_0004s04910",
+      "id": "POPTR_0004s04910",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s08190 AT: AT2G22125.1<br>Annotation: binding<br>GO : protein binding - plasma membrane - binding - ",
+      "artist": "POPTR_0005s08190",
+      "id": "POPTR_0005s08190",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s25190 AT: AT5G04890.1<br>Annotation: RTM2 (RESTRICTED TEV MOVEMENT 2)<br>GO : ",
+      "artist": "POPTR_0010s25190",
+      "id": "POPTR_0010s25190",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s25200 AT: AT5G04890.1<br>Annotation: RTM2 (RESTRICTED TEV MOVEMENT 2)<br>GO : ",
+      "artist": "POPTR_0010s25200",
+      "id": "POPTR_0010s25200",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s06020 AT: AT2G13690.1<br>Annotation: PRLI-interacting factor, putative<br>GO : ",
+      "artist": "POPTR_0005s06020",
+      "id": "POPTR_0005s06020",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s04920 AT: AT1G61110.1<br>Annotation: anac025 (Arabidopsis NAC domain containing protein 25); transcription factor<br>GO : DNA binding - regulation of transcription - ",
+      "artist": "POPTR_0004s04920",
+      "id": "POPTR_0004s04920",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0003s22030 AT: AT5G44640.1<br>Annotation: BGLU13 (BETA GLUCOSIDASE 13); catalytic/ cation binding / hydrolase, hydrolyzing O-glycosyl compounds<br>GO : hydrolase activity, hydrolyzing O-glycosyl compounds - carbohydrate metabolic process - ",
+      "artist": "POPTR_0003s22030",
+      "id": "POPTR_0003s22030",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s18990 AT: AT1G30140.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0005s18990",
+      "id": "POPTR_0005s18990",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s09360 AT: AT3G01570.1<br>Annotation: glycine-rich protein / oleosin<br>GO : integral to membrane - monolayer-surrounded lipid storage body - ",
+      "artist": "POPTR_0015s09360",
+      "id": "POPTR_0015s09360",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0019s00310 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0019s00310",
+      "id": "POPTR_0019s00310",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s10520 AT: AT1G21630.1<br>Annotation: calcium-binding EF hand family protein<br>GO : protein binding - cytosol - calcium ion binding - plasma membrane - ",
+      "artist": "POPTR_0005s10520",
+      "id": "POPTR_0005s10520",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s15650 AT: AT3G15355.1<br>Annotation: UBC25 (UBIQUITIN-CONJUGATING ENZYME 25); small conjugating protein ligase<br>GO : post-translational protein modification - acid-amino acid ligase activity - small conjugating protein ligase activity - regulation of protein metabolic process - ",
+      "artist": "POPTR_0010s15650",
+      "id": "POPTR_0010s15650",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0013s03900 AT: AT3G04720.1<br>Annotation: PR4 (PATHOGENESIS-RELATED 4); chitin binding<br>GO : chitin binding - ",
+      "artist": "POPTR_0013s03900",
+      "id": "POPTR_0013s03900",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0006s20780 AT: AT1G19330.2<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0006s20780",
+      "id": "POPTR_0006s20780",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s23590 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0004s23590",
+      "id": "POPTR_0004s23590",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0016s01850 AT: AT3G21790.1<br>Annotation: UDP-glucoronosyl/UDP-glucosyl transferase family protein<br>GO : metabolic process - transferase activity, transferring hexosyl groups - ",
+      "artist": "POPTR_0016s01850",
+      "id": "POPTR_0016s01850",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s17220 AT: (blank)<br>Annotation: (blank)<br>GO : transport - zinc ion binding - nucleic acid binding - ",
+      "artist": "POPTR_0005s17220",
+      "id": "POPTR_0005s17220",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s07160 AT: AT5G52660.1<br>Annotation: myb family transcription factor<br>GO : nucleus - DNA binding - response to gibberellin stimulus - response to jasmonic acid stimulus - response to ethylene stimulus - response to abscisic acid stimulus - response to salicylic acid stimulus - response to cadmium ion - protein binding - response to salt stress - regulation of transcription - ",
+      "artist": "POPTR_0004s07160",
+      "id": "POPTR_0004s07160",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0014s12500 AT: AT2G47800.1<br>Annotation: ATMRP4 (ARABIDOPSIS THALIANA MULTIDRUG RESISTANCE-ASSOCIATED PROTEIN 4); ATPase, coupled to transmembrane movement of substances / folic acid transporter<br>GO : response to water deprivation - ATP binding - stomatal movement - nucleotide binding - nucleoside-triphosphatase activity - integral to membrane - plasma membrane - ATPase activity - transport - response to wounding - transmembrane transport - ATPase activity, coupled to transmembrane movement of substances - response to nematode - vacuole - vacuolar membrane - folic acid transporter activity - ATP catabolic process - plant-type vacuole - ",
+      "artist": "POPTR_0014s12500",
+      "id": "POPTR_0014s12500",
+      "color": "#FF33FF",
+      "playcount": 1
+      }],
+"links": [
+{
+"source": "POPTR_0014s02580", 
+"target": "POPTR_0008s00490"
+},
+{
+"source": "POPTR_0009s16610", 
+"target": "POPTR_0002s16850"
+},
+{
+"source": "POPTR_0011s12270", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0016s05500", 
+"target": "POPTR_0008s07700"
+},
+{
+"source": "POPTR_0005s06080", 
+"target": "POPTR_0005s18860"
+},
+{
+"source": "POPTR_0011s12270", 
+"target": "POPTR_0010s23600"
+},
+{
+"source": "POPTR_0008s07630", 
+"target": "POPTR_0013s01230"
+},
+{
+"source": "POPTR_0011s12270", 
+"target": "POPTR_0008s07700"
+},
+{
+"source": "POPTR_0008s07760", 
+"target": "POPTR_0003s05270"
+},
+{
+"source": "POPTR_0005s06530", 
+"target": "POPTR_0008s07630"
+},
+{
+"source": "POPTR_0012s06700", 
+"target": "POPTR_0002s00360"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0008s07330"
+},
+{
+"source": "POPTR_0003s05270", 
+"target": "POPTR_0005s06530"
+},
+{
+"source": "POPTR_0004s23580", 
+"target": "POPTR_0011s12270"
+},
+{
+"source": "POPTR_0014s02580", 
+"target": "POPTR_0019s03470"
+},
+{
+"source": "POPTR_0013s06680", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0008s07700"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0009s11300"
+},
+{
+"source": "POPTR_0010s21200", 
+"target": "POPTR_0009s15190"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0013s06680"
+},
+{
+"source": "POPTR_0005s06530", 
+"target": "POPTR_0008s07740"
+},
+{
+"source": "POPTR_0008s07790", 
+"target": "POPTR_0009s16600"
+},
+{
+"source": "POPTR_0002s08650", 
+"target": "POPTR_0011s12280"
+},
+{
+"source": "POPTR_0008s07330", 
+"target": "POPTR_0002s01780"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0019s10160"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0014s11710"
+},
+{
+"source": "POPTR_0002s16850", 
+"target": "POPTR_0010s21200"
+},
+{
+"source": "POPTR_0017s13990", 
+"target": "POPTR_0013s01240"
+},
+{
+"source": "POPTR_0019s03470", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0002s16850"
+},
+{
+"source": "POPTR_0014s11710", 
+"target": "POPTR_0002s02940"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0019s03470"
+},
+{
+"source": "POPTR_0008s07750", 
+"target": "POPTR_0003s22050"
+},
+{
+"source": "POPTR_0014s02580", 
+"target": "POPTR_0010s09370"
+},
+{
+"source": "POPTR_0008s07750", 
+"target": "POPTR_0008s07740"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0019s03470"
+},
+{
+"source": "POPTR_0004s23580", 
+"target": "POPTR_0013s06680"
+},
+{
+"source": "POPTR_0002s01780", 
+"target": "POPTR_0008s07650"
+},
+{
+"source": "POPTR_0013s01240", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0008s06400", 
+"target": "POPTR_0013s01240"
+},
+{
+"source": "POPTR_0008s07710", 
+"target": "POPTR_0008s07760"
+},
+{
+"source": "POPTR_0002s01780", 
+"target": "POPTR_0017s13990"
+},
+{
+"source": "POPTR_0008s07330", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0008s07710", 
+"target": "POPTR_0002s02940"
+},
+{
+"source": "POPTR_0008s07330", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0005s06530", 
+"target": "POPTR_0010s09370"
+},
+{
+"source": "POPTR_0019s10160", 
+"target": "POPTR_0017s14000"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0019s03470"
+},
+{
+"source": "POPTR_0014s11710", 
+"target": "POPTR_0008s07760"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0005s08230"
+},
+{
+"source": "POPTR_0009s16610", 
+"target": "POPTR_0008s07630"
+},
+{
+"source": "POPTR_0004s23580", 
+"target": "POPTR_0008s07700"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0005s08180"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0010s23600"
+},
+{
+"source": "POPTR_0008s07740", 
+"target": "POPTR_0011s12280"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0003s19750"
+},
+{
+"source": "POPTR_0008s07330", 
+"target": "POPTR_0013s01240"
+},
+{
+"source": "POPTR_0004s23580", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0019s10160", 
+"target": "POPTR_0019s03470"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0014s11710"
+},
+{
+"source": "POPTR_0010s21200", 
+"target": "POPTR_0008s07630"
+},
+{
+"source": "POPTR_0009s16610", 
+"target": "POPTR_0005s06530"
+},
+{
+"source": "POPTR_0008s07760", 
+"target": "POPTR_0012s06700"
+},
+{
+"source": "POPTR_0008s07330", 
+"target": "POPTR_0017s13990"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0005s06530", 
+"target": "POPTR_0011s12280"
+},
+{
+"source": "POPTR_0010s23600", 
+"target": "POPTR_0009s16600"
+},
+{
+"source": "POPTR_0008s07750", 
+"target": "POPTR_0002s08650"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0011s12270"
+},
+{
+"source": "POPTR_0013s01230", 
+"target": "POPTR_0017s14000"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0008s00490"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0004s23580"
+},
+{
+"source": "POPTR_0019s03470", 
+"target": "POPTR_0013s01240"
+},
+{
+"source": "POPTR_0008s07790", 
+"target": "POPTR_0005s08180"
+},
+{
+"source": "POPTR_0019s10160", 
+"target": "POPTR_0008s07790"
+},
+{
+"source": "POPTR_0011s12270", 
+"target": "POPTR_0008s07330"
+},
+{
+"source": "POPTR_0003s19750", 
+"target": "POPTR_0001s15810"
+},
+{
+"source": "POPTR_0002s00350", 
+"target": "POPTR_0001s15810"
+},
+{
+"source": "POPTR_0008s07740", 
+"target": "POPTR_0008s07630"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0002s00350"
+},
+{
+"source": "POPTR_0009s15190", 
+"target": "POPTR_0008s06400"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0002s02940"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0013s06680"
+},
+{
+"source": "POPTR_0009s11300", 
+"target": "POPTR_0008s06400"
+},
+{
+"source": "POPTR_0011s12270", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0019s03470", 
+"target": "POPTR_0002s00350"
+},
+{
+"source": "POPTR_0008s07760", 
+"target": "POPTR_0002s02940"
+},
+{
+"source": "POPTR_0002s16850", 
+"target": "POPTR_0008s07630"
+},
+{
+"source": "POPTR_0008s07330", 
+"target": "POPTR_0008s06400"
+},
+{
+"source": "POPTR_0014s02580", 
+"target": "POPTR_0003s19750"
+},
+{
+"source": "POPTR_0012s06700", 
+"target": "POPTR_0002s01780"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0016s05500"
+},
+{
+"source": "POPTR_0010s21200", 
+"target": "POPTR_0002s08650"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0005s06090", 
+"target": "POPTR_0008s07650"
+},
+{
+"source": "POPTR_0019s03470", 
+"target": "POPTR_0003s19750"
+},
+{
+"source": "POPTR_0014s11710", 
+"target": "POPTR_0002s08650"
+},
+{
+"source": "POPTR_0002s08650", 
+"target": "POPTR_0002s00360"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0001s15810"
+},
+{
+"source": "POPTR_0002s01780", 
+"target": "POPTR_0013s01240"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0005s06530"
+},
+{
+"source": "POPTR_0004s23580", 
+"target": "POPTR_0014s11710"
+},
+{
+"source": "POPTR_0010s21200", 
+"target": "POPTR_0005s06530"
+},
+{
+"source": "POPTR_0003s19750", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0016s05500", 
+"target": "POPTR_0014s11710"
+},
+{
+"source": "POPTR_0013s06680", 
+"target": "POPTR_0019s03470"
+},
+{
+"source": "POPTR_0016s07120", 
+"target": "POPTR_0003s05270"
+},
+{
+"source": "POPTR_0005s06090", 
+"target": "POPTR_0009s11300"
+},
+{
+"source": "POPTR_0008s07790", 
+"target": "POPTR_0017s14000"
+},
+{
+"source": "POPTR_0014s11710", 
+"target": "POPTR_0010s23600"
+},
+{
+"source": "POPTR_0190s00210", 
+"target": "POPTR_0008s07760"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0005s06090", 
+"target": "POPTR_0008s07740"
+},
+{
+"source": "POPTR_0008s07630", 
+"target": "POPTR_0011s12280"
+},
+{
+"source": "POPTR_0009s11300", 
+"target": "POPTR_0010s21200"
+},
+{
+"source": "POPTR_0016s05500", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0009s15190", 
+"target": "POPTR_0003s05270"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0008s07790"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0010s09370"
+},
+{
+"source": "POPTR_0008s06400", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0009s11300", 
+"target": "POPTR_0005s06530"
+},
+{
+"source": "POPTR_0002s16850", 
+"target": "POPTR_0008s07740"
+},
+{
+"source": "POPTR_0010s23600", 
+"target": "POPTR_0008s07700"
+},
+{
+"source": "POPTR_0009s11300", 
+"target": "POPTR_0005s08180"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0011s12280"
+},
+{
+"source": "POPTR_0019s03470", 
+"target": "POPTR_0008s00490"
+},
+{
+"source": "POPTR_0014s11710", 
+"target": "POPTR_0008s07700"
+},
+{
+"source": "POPTR_0014s11710", 
+"target": "POPTR_0011s12270"
+},
+{
+"source": "POPTR_0008s07760", 
+"target": "POPTR_0009s15190"
+},
+{
+"source": "POPTR_0190s00210", 
+"target": "POPTR_0002s02940"
+},
+{
+"source": "POPTR_0014s11710", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0016s05500", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0013s01250"
+},
+{
+"source": "POPTR_0017s13990", 
+"target": "POPTR_0008s07750"
+},
+{
+"source": "POPTR_0005s06090", 
+"target": "POPTR_0010s21200"
+},
+{
+"source": "POPTR_0004s23580", 
+"target": "POPTR_0008s07330"
+},
+{
+"source": "POPTR_0013s06680", 
+"target": "POPTR_0019s10160"
+},
+{
+"source": "POPTR_0190s00210", 
+"target": "POPTR_0012s06700"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0008s07630"
+},
+{
+"source": "POPTR_0012s10180", 
+"target": "POPTR_0012s06700"
+},
+{
+"source": "POPTR_0008s06400", 
+"target": "POPTR_0008s07740"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0016s05500"
+},
+{
+"source": "POPTR_0016s05500", 
+"target": "POPTR_0004s23580"
+},
+{
+"source": "POPTR_0008s06400", 
+"target": "POPTR_0017s13990"
+},
+{
+"source": "POPTR_0007s10680", 
+"target": "POPTR_0011s12280"
+},
+{
+"source": "POPTR_0008s07740", 
+"target": "POPTR_0003s05270"
+},
+{
+"source": "POPTR_0009s16610", 
+"target": "POPTR_0009s11300"
+},
+{
+"source": "POPTR_0004s23580", 
+"target": "POPTR_0019s03470"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0002s00350"
+},
+{
+"source": "POPTR_0008s07330", 
+"target": "POPTR_0008s07650"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0011s12270"
+},
+{
+"source": "POPTR_0002s02940", 
+"target": "POPTR_0013s01250"
+},
+{
+"source": "POPTR_0016s07120", 
+"target": "POPTR_0010s23600"
+},
+{
+"source": "POPTR_0002s08650", 
+"target": "POPTR_0008s07740"
+},
+{
+"source": "POPTR_0190s00210", 
+"target": "POPTR_0014s11710"
+},
+{
+"source": "POPTR_0008s07760", 
+"target": "POPTR_0002s00360"
+},
+{
+"source": "POPTR_0002s02940", 
+"target": "POPTR_0012s06700"
+},
+{
+"source": "POPTR_0009s16610", 
+"target": "POPTR_0008s07740"
+},
+{
+"source": "POPTR_0014s02580", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0017s13990", 
+"target": "POPTR_0008s07760"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0008s07330"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0019s03470"
+},
+{
+"source": "POPTR_0002s16850", 
+"target": "POPTR_0005s08230"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0008s07330"
+},
+{
+"source": "POPTR_0019s03470", 
+"target": "POPTR_0010s09370"
+},
+{
+"source": "POPTR_0019s03470", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0010s21200"
+},
+{
+"source": "POPTR_0004s23580", 
+"target": "POPTR_0010s23600"
+},
+{
+"source": "POPTR_0005s06090", 
+"target": "POPTR_0011s12280"
+},
+{
+"source": "POPTR_0005s06530", 
+"target": "POPTR_0013s01230"
+},
+{
+"source": "POPTR_0001s15810", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0004s23580"
+},
+{
+"source": "POPTR_0014s02580", 
+"target": "POPTR_0002s00350"
+},
+{
+"source": "POPTR_0003s05270", 
+"target": "POPTR_0008s06400"
+},
+{
+"source": "POPTR_0013s06680", 
+"target": "POPTR_0008s07700"
+},
+{
+"source": "POPTR_0009s15190", 
+"target": "POPTR_0005s06530"
+},
+{
+"source": "POPTR_0017s13990", 
+"target": "POPTR_0003s22050"
+},
+{
+"source": "POPTR_0010s21200", 
+"target": "POPTR_0008s07750"
+},
+{
+"source": "POPTR_0008s07760", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0003s05270", 
+"target": "POPTR_0009s11300"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0008s07790"
+},
+{
+"source": "POPTR_0009s11300", 
+"target": "POPTR_0008s07740"
+},
+{
+"source": "POPTR_0005s06090", 
+"target": "POPTR_0009s16610"
+},
+{
+"source": "POPTR_0008s07710", 
+"target": "POPTR_0002s08650"
+},
+{
+"source": "POPTR_0013s06680", 
+"target": "POPTR_0008s07330"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0009s16600"
+},
+{
+"source": "POPTR_0009s11300", 
+"target": "POPTR_0002s02940"
+},
+{
+"source": "POPTR_0016s05500", 
+"target": "POPTR_0013s06680"
+},
+{
+"source": "POPTR_0008s07330", 
+"target": "POPTR_0010s23600"
+},
+{
+"source": "POPTR_0002s08650", 
+"target": "POPTR_0008s07760"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0001s15810"
+},
+{
+"source": "POPTR_0016s05500", 
+"target": "POPTR_0019s10160"
+},
+{
+"source": "POPTR_0002s01780", 
+"target": "POPTR_0008s06400"
+},
+{
+"source": "POPTR_0002s01780", 
+"target": "POPTR_0003s05270"
+},
+{
+"source": "POPTR_0009s11300", 
+"target": "POPTR_0008s07750"
+},
+{
+"source": "POPTR_0005s06090", 
+"target": "POPTR_0005s06530"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0013s01250"
+},
+{
+"source": "POPTR_0005s06530", 
+"target": "POPTR_0008s07750"
+},
+{
+"source": "POPTR_0016s07120", 
+"target": "POPTR_0008s07740"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0009s11300"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0016s05500"
+},
+{
+"source": "POPTR_0016s07120", 
+"target": "POPTR_0005s06530"
+},
+{
+"source": "POPTR_0005s06090", 
+"target": "POPTR_0002s08650"
+},
+{
+"source": "POPTR_0011s12280", 
+"target": "POPTR_0013s01230"
+},
+{
+"source": "POPTR_0005s06090", 
+"target": "POPTR_0013s01230"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0016s05500"
+},
+{
+"source": "POPTR_0009s11300", 
+"target": "POPTR_0008s07630"
+},
+{
+"source": "POPTR_0009s16610", 
+"target": "POPTR_0002s08650"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0008s07700"
+},
+{
+"source": "POPTR_0019s10160", 
+"target": "POPTR_0008s07700"
+},
+{
+"source": "POPTR_0008s07680", 
+"target": "POPTR_0013s01270"
+},
+{
+"source": "POPTR_0002s16850", 
+"target": "POPTR_0013s01230"
+},
+{
+"source": "POPTR_0008s07740", 
+"target": "POPTR_0009s15190"
+},
+{
+"source": "POPTR_0003s05270", 
+"target": "POPTR_0008s07760"
+},
+{
+"source": "POPTR_0019s10160", 
+"target": "POPTR_0011s12270"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0008s07700"
+},
+{
+"source": "POPTR_0016s07120", 
+"target": "POPTR_0008s07760"
+},
+{
+"source": "POPTR_0017s13990", 
+"target": "POPTR_0008s07650"
+},
+{
+"source": "POPTR_0019s03470", 
+"target": "POPTR_0008s07700"
+},
+{
+"source": "POPTR_0019s10160", 
+"target": "POPTR_0010s23600"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0017s14000"
+},
+{
+"source": "POPTR_0013s01240", 
+"target": "POPTR_0002s01780"
+},
+{
+"source": "POPTR_0008s06400", 
+"target": "POPTR_0008s07760"
+},
+{
+"source": "POPTR_0010s21200", 
+"target": "POPTR_0013s01230"
+},
+{
+"source": "POPTR_0009s16610", 
+"target": "POPTR_0010s21200"
+},
+{
+"source": "POPTR_0009s16610", 
+"target": "POPTR_0008s07750"
+},
+{
+"source": "POPTR_0014s11710", 
+"target": "POPTR_0008s07710"
+},
+{
+"source": "POPTR_0013s15230", 
+"target": "POPTR_0013s01240"
+},
+{
+"source": "POPTR_0008s07330", 
+"target": "POPTR_0019s03470"
+},
+{
+"source": "POPTR_0003s22040", 
+"target": "POPTR_0003s22040"
+},
+{
+"source": "POPTR_0013s06680", 
+"target": "POPTR_0014s11710"
+},
+{
+"source": "POPTR_0016s07120", 
+"target": "POPTR_0008s07700"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0013s06680"
+},
+{
+"source": "POPTR_0016s07120", 
+"target": "POPTR_0008s07330"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0008s07740"
+},
+{
+"source": "POPTR_0014s11710", 
+"target": "POPTR_0008s07330"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0004s23580"
+},
+{
+"source": "POPTR_0016s05500", 
+"target": "POPTR_0019s03470"
+},
+{
+"source": "POPTR_0010s23600", 
+"target": "POPTR_0005s08230"
+},
+{
+"source": "POPTR_0003s05270", 
+"target": "POPTR_0008s07750"
+},
+{
+"source": "POPTR_0017s13990", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0002s08650", 
+"target": "POPTR_0009s15190"
+},
+{
+"source": "POPTR_0004s23580", 
+"target": "POPTR_0019s10160"
+},
+{
+"source": "POPTR_0019s10160", 
+"target": "POPTR_0014s11710"
+},
+{
+"source": "POPTR_0010s23600", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0016s05500", 
+"target": "POPTR_0010s23600"
+},
+{
+"source": "POPTR_0010s21200", 
+"target": "POPTR_0008s07740"
+},
+{
+"source": "POPTR_0009s11300", 
+"target": "POPTR_0011s12280"
+},
+{
+"source": "POPTR_0013s06680", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0008s07710", 
+"target": "POPTR_0002s00360"
+},
+{
+"source": "POPTR_0010s21200", 
+"target": "POPTR_0011s12280"
+},
+{
+"source": "POPTR_0009s02090", 
+"target": "POPTR_0014s12540"
+},
+{
+"source": "POPTR_0002s16850", 
+"target": "POPTR_0009s11300"
+},
+{
+"source": "POPTR_0009s16610", 
+"target": "POPTR_0011s12280"
+},
+{
+"source": "POPTR_0017s13990", 
+"target": "POPTR_0019s03470"
+},
+{
+"source": "POPTR_0002s16850", 
+"target": "POPTR_0014s11710"
+},
+{
+"source": "POPTR_0004s23580", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0008s07750", 
+"target": "POPTR_0008s07630"
+},
+{
+"source": "POPTR_0019s03470", 
+"target": "POPTR_0010s23600"
+},
+{
+"source": "POPTR_0014s02580", 
+"target": "POPTR_0001s15810"
+},
+{
+"source": "POPTR_0014s11710", 
+"target": "POPTR_0002s00360"
+},
+{
+"source": "POPTR_0007s15010", 
+"target": "POPTR_0014s12540"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0008s00490"
+},
+{
+"source": "POPTR_0005s06090", 
+"target": "POPTR_0008s07750"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0013s01230"
+},
+{
+"source": "POPTR_0005s08230", 
+"target": "POPTR_0010s09420"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0002s02940"
+},
+{
+"source": "POPTR_0013s15230", 
+"target": "POPTR_0019s03470"
+},
+{
+"source": "POPTR_0008s07740", 
+"target": "POPTR_0008s07760"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0003s19750"
+},
+{
+"source": "POPTR_0009s11300", 
+"target": "POPTR_0013s01230"
+},
+{
+"source": "POPTR_0016s05500", 
+"target": "POPTR_0008s07330"
+},
+{
+"source": "POPTR_0014s11710", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0013s01240"
+},
+{
+"source": "POPTR_0002s00360", 
+"target": "POPTR_0005s08230"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0008s00490"
+},
+{
+"source": "POPTR_0008s07760", 
+"target": "POPTR_0002s01780"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0019s10160"
+},
+{
+"source": "POPTR_0009s02090", 
+"target": "POPTR_0009s16610"
+},
+{
+"source": "POPTR_0008s07330", 
+"target": "POPTR_0008s07760"
+},
+{
+"source": "POPTR_0002s08650", 
+"target": "POPTR_0002s02940"
+},
+{
+"source": "POPTR_0009s16610", 
+"target": "POPTR_0013s01230"
+},
+{
+"source": "POPTR_0016s07120", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0010s09370"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0012s06700"
+},
+{
+"source": "POPTR_0002s00350", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0019s03470", 
+"target": "POPTR_0011s12270"
+},
+{
+"source": "POPTR_0002s01780", 
+"target": "POPTR_0008s07750"
+},
+{
+"source": "POPTR_0002s16850", 
+"target": "POPTR_0002s08650"
+},
+{
+"source": "POPTR_0019s10160", 
+"target": "POPTR_0008s07330"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0003s22050"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0005s06090", 
+"target": "POPTR_0001s15810"
+},
+{
+"source": "POPTR_0013s06680", 
+"target": "POPTR_0010s23600"
+},
+{
+"source": "POPTR_0008s07750", 
+"target": "POPTR_0013s01230"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0009s16610"
+},
+{
+"source": "POPTR_0016s07120", 
+"target": "POPTR_0009s15190"
+},
+{
+"source": "POPTR_0008s07650", 
+"target": "POPTR_0008s07750"
+},
+{
+"source": "POPTR_0002s16850", 
+"target": "POPTR_0005s06530"
+},
+{
+"source": "POPTR_0008s06400", 
+"target": "POPTR_0008s07750"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0005s06090", 
+"target": "POPTR_0008s07630"
+},
+{
+"source": "POPTR_0016s05500", 
+"target": "POPTR_0011s12270"
+},
+{
+"source": "POPTR_0002s01780", 
+"target": "POPTR_0008s07760"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0002s02940", 
+"target": "POPTR_0002s00360"
+},
+{
+"source": "POPTR_0008s06400", 
+"target": "POPTR_0009s15190"
+},
+{
+"source": "POPTR_0019s10160", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0019s03470", 
+"target": "POPTR_0001s15810"
+},
+{
+"source": "POPTR_0008s07750", 
+"target": "POPTR_0011s12280"
+},
+{
+"source": "POPTR_0008s07760", 
+"target": "POPTR_0005s06530"
+},
+{
+"source": "POPTR_0008s07790", 
+"target": "POPTR_0016s05500"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0013s15230"
+},
+{
+"source": "POPTR_0003s05270", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0010s23600"
+},
+{
+"source": "POPTR_0010s23600", 
+"target": "POPTR_0010s09420"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0019s10160"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0005s08180"
+},
+{
+"source": "POPTR_0008s11150", 
+"target": "POPTR_0011s12270"
+},
+{
+"source": "POPTR_0008s07760", 
+"target": "POPTR_0008s07750"
+},
+{
+"source": "POPTR_0013s06680", 
+"target": "POPTR_0011s12270"
+},
+{
+"source": "POPTR_0190s00210", 
+"target": "POPTR_0002s08650"
+},
+{
+"source": "POPTR_0008s07740", 
+"target": "POPTR_0013s01230"
+},
+{
+"source": "POPTR_0003s19750", 
+"target": "POPTR_0002s00350"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0005s08180"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0014s12540"
+},
+{
+"source": "POPTR_0005s08180", 
+"target": "POPTR_0014s11710"
+},
+{
+"source": "POPTR_0010s23600", 
+"target": "POPTR_0013s01250"
+},
+{
+"source": "POPTR_0016s05500", 
+"target": "POPTR_0002s00360"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0002s00360"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0014s02580"
+},
+{
+"source": "POPTR_0190s00210", 
+"target": "POPTR_0008s07710"
+},
+{
+"source": "POPTR_0002s16850", 
+"target": "POPTR_0011s12280"
+},
+{
+"source": "POPTR_0013s01250", 
+"target": "POPTR_0006s14860"
+},
+{
+"source": "POPTR_0013s01230", 
+"target": "POPTR_0011s12280"
+},
+{
+"source": "POPTR_0009s11300", 
+"target": "POPTR_0013s01250"
+},
+{
+"source": "POPTR_0008s00490", 
+"target": "POPTR_0010s23600"
+},
+{
+"source": "POPTR_0019s10160", 
+"target": "POPTR_0016s07120"
+},
+{
+"source": "POPTR_0190s00210", 
+"target": "POPTR_0002s00360"
+},
+{
+"source": "POPTR_0019s03470", 
+"target": "POPTR_0014s11710"
+},
+{
+"source": "POPTR_0002s16850", 
+"target": "POPTR_0010s09420"
+},
+{
+"source": "POPTR_0005s06090", 
+"target": "POPTR_0002s16850"
+},
+{
+"source": "POPTR_0002s16850", 
+"target": "POPTR_0008s07750"
+},
+{
+"source": "POPTR_0002s16850", 
+"target": "POPTR_0002s00360"
+}
+]
+}

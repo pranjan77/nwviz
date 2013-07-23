@@ -1,0 +1,7 @@
+#!/bin/bash
+
+#cd /files/packages/application/kbasesearch/
+sudo /etc/init.d/nginx stop
+sudo nodemon -w . -w ./public/js -w ./routes -w ./views ./app.js 
+
+

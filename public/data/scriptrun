@@ -1,0 +1,6 @@
+perl g2prun.pl
+perl assign_id.pl  
+generatejson
+
+#perl generatenetwork.pl gene2gene_network.txt ../data/Popgenie2_import.txt.parse  gene2ontology.txt.tmp  >x.json
+

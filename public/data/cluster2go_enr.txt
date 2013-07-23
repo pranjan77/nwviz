@@ -1,0 +1,96 @@
+kb|cluster.12.blue	GO:0051753	0.000571820663736	mannan synthase activity
+kb|cluster.12.blue	GO:0031177	0.00570840038981895	phosphopantetheine binding
+kb|cluster.12.blue	GO:0007018	0.0146833272893701	microtubule-based movement
+kb|cluster.12.blue	GO:0006200	0.0163813030314652	ATP catabolic process
+kb|cluster.12.blue	GO:0000166	0.0156913433926655	nucleotide binding
+kb|cluster.12.blue	GO:0016887	0.0344835664359842	ATPase activity
+kb|cluster.12.blue	GO:0003777	0.0129833985791855	microtubule motor activity
+kb|cluster.14.turquoise	GO:0008152	0.0454540090064481	metabolic process
+kb|cluster.14.turquoise	GO:0042218	0.0035032904992072	1-aminocyclopropane-1-carboxylate biosynthetic process
+kb|cluster.14.turquoise	GO:0006950	0.0198305923069685	response to stress
+kb|cluster.14.turquoise	GO:0009058	0.0404002986150233	biosynthetic process
+kb|cluster.14.turquoise	GO:0016847	0.00365539837320085	1-aminocyclopropane-1-carboxylate synthase activity
+kb|cluster.14.turquoise	GO:0003824	0.0417822856002177	catalytic activity
+kb|cluster.14.turquoise	GO:0016769	0.00851366285454483	transferase activity, transferring nitrogenous groups
+kb|cluster.14.turquoise	GO:0030170	0.0289633568921551	pyridoxal phosphate binding
+kb|cluster.14.turquoise	GO:0016791	0.0112386165417406	phosphatase activity
+kb|cluster.14.turquoise	GO:0016787	0.00888498910106091	hydrolase activity
+kb|cluster.14.turquoise	GO:0016311	0.00790735350561911	dephosphorylation
+kb|cluster.11.turquoise	GO:0005509	0.0497113144165817	calcium ion binding
+kb|cluster.12.yellow	GO:0016791	0.00844069897163197	phosphatase activity
+kb|cluster.12.yellow	GO:0016311	0.00593628340980634	dephosphorylation
+kb|cluster.11.blue	GO:0010303	0.00019063596156779	limit dextrinase activity
+kb|cluster.11.blue	GO:0016747	0.0399542701074429	transferase activity, transferring acyl groups other than amino-acyl groups
+kb|cluster.11.blue	GO:0019252	0.00304668827538121	starch biosynthetic process
+kb|cluster.11.blue	GO:0003676	0.0269894662800596	nucleic acid binding
+kb|cluster.11.blue	GO:0004004	0.000571820663736	ATP-dependent RNA helicase activity
+kb|cluster.11.blue	GO:0051060	0.000381242848371168	pullulanase activity
+kb|cluster.11.blue	GO:0004386	0.0416139085245358	helicase activity
+kb|cluster.11.blue	GO:0009561	0.00361711470685934	megagametogenesis
+kb|cluster.11.blue	GO:0009555	0.0207963688861468	pollen development
+kb|cluster.11.blue	GO:0009507	0.00511116546379057	chloroplast
+kb|cluster.11.blue	GO:0016070	0.00494709434580154	RNA metabolic process
+kb|cluster.11.blue	GO:0043169	0.0427190584234049	cation binding
+kb|cluster.15.blue	GO:0019760	0.015898818438443	glucosinolate metabolic process
+kb|cluster.15.blue	GO:0070417	0.00903837104341376	cellular response to cold
+kb|cluster.15.blue	GO:0042218	0.0122102310461386	1-aminocyclopropane-1-carboxylate biosynthetic process
+kb|cluster.15.blue	GO:0009817	0.0372478171688869	defense response to fungus, incompatible interaction
+kb|cluster.15.blue	GO:0042344	0.00956767029965697	indole glucosinolate catabolic process
+kb|cluster.15.blue	GO:0051753	0.00266625886875062	mannan synthase activity
+kb|cluster.15.blue	GO:0046914	0.0169503489437548	transition metal ion binding
+kb|cluster.15.blue	GO:0080119	0.00797898446227081	ER body organization
+kb|cluster.15.blue	GO:0010025	0.0137926233889413	wax biosynthetic process
+kb|cluster.15.blue	GO:0019137	0.00850880913771871	thioglucosidase activity
+kb|cluster.15.blue	GO:0051707	0.0274084242187289	response to other organism
+kb|cluster.15.blue	GO:0052544	0.0258463271470895	defense response by callose deposition in cell wall
+kb|cluster.15.blue	GO:0045300	0.00373091289463207	acyl-[acyl-carrier-protein] desaturase activity
+kb|cluster.15.blue	GO:0071472	0.0116822432343887	cellular response to salt stress
+kb|cluster.15.blue	GO:0031177	0.0263672848391311	phosphopantetheine binding
+kb|cluster.15.blue	GO:0004467	0.00160054845716266	long-chain fatty acid-CoA ligase activity
+kb|cluster.15.blue	GO:0050832	0.00236543835919577	defense response to fungus
+kb|cluster.15.blue	GO:0016847	0.0127379569291902	1-aminocyclopropane-1-carboxylate synthase activity
+kb|cluster.15.blue	GO:0008422	0.00956767029965697	beta-glucosidase activity
+kb|cluster.15.blue	GO:0016769	0.0294876022789388	transferase activity, transferring nitrogenous groups
+kb|cluster.15.blue	GO:0009687	0.0111539933739407	abscisic acid metabolic process
+kb|cluster.15.blue	GO:0009941	0.0365625414956578	chloroplast envelope
+kb|cluster.15.blue	GO:0007568	0.0242819006380975	aging
+kb|cluster.15.blue	GO:0010311	0.00956767029965697	lateral root formation
+kb|cluster.15.blue	GO:0051993	0.00903837104341376	abscisic acid glucose ester beta-glucosidase activity
+kb|cluster.15.blue	GO:0010143	0.00532591532461669	cutin biosynthetic process
+kb|cluster.15.blue	GO:0010168	0.00903837104341376	ER body
+kb|cluster.15.blue	GO:0009610	0.0106254813447446	response to symbiotic fungus
+kb|cluster.15.blue	GO:0006631	0.0143195642053885	fatty acid metabolic process
+kb|cluster.15.blue	GO:0010287	0.0434144610340854	plastoglobule
+kb|cluster.15.blue	GO:0031957	0.00106729680442346	very long-chain fatty acid-CoA ligase activity
+kb|cluster.11.grey	GO:0006418	0.0197399447069746	tRNA aminoacylation for protein translation
+kb|cluster.11.grey	GO:0004812	0.0217633392607095	aminoacyl-tRNA ligase activity
+kb|cluster.11.grey	GO:0051753	0.00114337971445416	mannan synthase activity
+kb|cluster.11.grey	GO:0032259	0.0475327114027852	methylation
+kb|cluster.11.grey	GO:0007018	0.0291527014173083	microtubule-based movement
+kb|cluster.11.grey	GO:0005777	0.049069479788531	peroxisome
+kb|cluster.11.grey	GO:0003777	0.0257996881415523	microtubule motor activity
+kb|cluster.15.turquoise	GO:0010303	0.000571907884703371	limit dextrinase activity
+kb|cluster.15.turquoise	GO:0006418	0.0486298015425534	tRNA aminoacylation for protein translation
+kb|cluster.15.turquoise	GO:0016023	0.0332251106412783	cytoplasmic membrane-bounded vesicle
+kb|cluster.15.turquoise	GO:0008725	0.00684277906241793	DNA-3-methyladenine glycosylase I activity
+kb|cluster.15.turquoise	GO:0019252	0.00911397656938892	starch biosynthetic process
+kb|cluster.15.turquoise	GO:0006665	1.09648641498615e-05	sphingolipid metabolic process
+kb|cluster.15.turquoise	GO:0006629	0.0192165109338705	lipid metabolic process
+kb|cluster.15.turquoise	GO:0002764	0.0102477565869314	immune response-regulating signaling pathway
+kb|cluster.15.turquoise	GO:0032940	0.0276672445946298	secretion by cell
+kb|cluster.15.turquoise	GO:0008643	0.00627422100142767	carbohydrate transport
+kb|cluster.15.turquoise	GO:0006284	0.0192745055184943	base-excision repair
+kb|cluster.15.turquoise	GO:0000139	0.0130769116246829	Golgi membrane
+kb|cluster.15.turquoise	GO:0008219	0.0293377277184095	cell death
+kb|cluster.15.turquoise	GO:0003824	0.00769056858776639	catalytic activity
+kb|cluster.15.turquoise	GO:0016045	0.0119461565744881	detection of bacterium
+kb|cluster.15.turquoise	GO:0004348	4.57322542515449e-06	glucosylceramidase activity
+kb|cluster.15.turquoise	GO:0051060	0.0011435104843804	pullulanase activity
+kb|cluster.15.turquoise	GO:0010359	0.0125116851604146	regulation of anion channel activity
+kb|cluster.15.turquoise	GO:0016021	0.000338488482134386	integral to membrane
+kb|cluster.15.turquoise	GO:0016798	0.00272003099957989	hydrolase activity, acting on glycosyl bonds
+kb|cluster.15.turquoise	GO:0009626	0.0304498946125167	plant-type hypersensitive response
+kb|cluster.15.turquoise	GO:0006680	3.04982475933181e-06	glucosylceramide catabolic process
+kb|cluster.15.turquoise	GO:0016787	0.0196425244974418	hydrolase activity
+kb|cluster.15.turquoise	GO:0010204	0.0170250500492942	defense response signaling pathway, resistance gene-independent
+kb|cluster.15.turquoise	GO:0005351	0.0147707797859768	sugar:hydrogen symporter activity

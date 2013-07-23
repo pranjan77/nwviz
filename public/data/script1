@@ -1,0 +1,7 @@
+for FILE in *.json
+do
+echo $FILE
+sed -i "s/\'//g" $FILE
+sed -i "s/'//g" $FILE
+sed -i 's/\\//g' $FILE
+done

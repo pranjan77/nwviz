@@ -1,0 +1,19 @@
+<option value="phenology_BF_v2_100genes-merged.json">(332) phenology_BF_v2_100genes-merged-all-networks.json</option>
+<option value="phenology_BF_v2_100genes-netdataset.plant.cn.15.json">(177) phenology_BF_v2_100genes 177Coexpression Network for Populus trichocarpa on shoot
+</option>
+<option value="phenology_BF_v2_100genes-netdataset.plant.cn.14.json">(60) phenology_BF_v2_100genes 60Coexpression Network for Populus trichocarpa on seed
+</option>
+<option value="phenology_BF_v2_100genes-netdataset.plant.cn.11.json">(59) phenology_BF_v2_100genes 59Coexpression Network for Populus trichocarpa on drought
+</option>
+<option value="phenology_BF_v2_100genes-netdataset.plant.cn.16.json">(34) phenology_BF_v2_100genes 34Coexpression Network for Populus trichocarpa on xylem
+</option>
+<option value="phenology_BF_v2_100genes-netdataset.plant.cn.13.json">(16) phenology_BF_v2_100genes 16Coexpression Network for Populus trichocarpa on root
+</option>
+<option value="phenology_BF_v2_100genes-netdataset.plant.fn.27.json">(7) phenology_BF_v2_100genes 7PopNet : Probablistic Functional Association Network for Populus projected from AraNet (www.functionalnet.org/aranet) and RiceNet networks
+</option>
+<option value="phenology_BF_v2_100genes-netdataset.plant.cn.12.json">(6) phenology_BF_v2_100genes 6Coexpression Network for Populus trichocarpa on leaf
+</option>
+<option value="phenology_BF_v2_100genes-netdataset.plant.ppi.1.json">(1) phenology_BF_v2_100genes 1Populus trichocarpa  PPI interologs projected from Arabidopsis thaliana PPIs using bi-directional best hit orthologs
+</option>
+<option value="phenology_BF_v2_100genes-netdataset.plant.ppi.2.json">(1) phenology_BF_v2_100genes 1Populus trichocarpa PPI interologs projected from Arabidopsis thaliana PPIs using one to many orthologs
+</option>

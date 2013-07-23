@@ -1,0 +1,14 @@
+{
+  "name": "nwVisualize",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "3.3.4",
+    "ejs": "*",
+    "shock": "0.0.1",
+    "underscore": "~1.5.1"
+  }
+}

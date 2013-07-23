@@ -1,0 +1,769 @@
+{
+"nodes": [
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s10720 AT: AT1G65770.1<br>Annotation: F-box family protein<br>GO : ",
+      "artist": "POPTR_0005s10720",
+      "id": "POPTR_0005s10720",
+      "color": "#088da5",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s11050 AT: AT1G68720.1<br>Annotation: TADA (TRNA ARGININE ADENOSINE DEAMINASE); catalytic/ hydrolase/ zinc ion binding<br>GO : hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - metabolic process - metabolic process - metabolic process - metabolic process - metabolic process - metabolic process - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - catalytic activity - catalytic activity - catalytic activity - catalytic activity - catalytic activity - catalytic activity - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - metabolic process - metabolic process - metabolic process - metabolic process - metabolic process - metabolic process - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - catalytic activity - catalytic activity - catalytic activity - catalytic activity - catalytic activity - catalytic activity - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - metabolic process - metabolic process - metabolic process - metabolic process - metabolic process - metabolic process - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - catalytic activity - catalytic activity - catalytic activity - catalytic activity - catalytic activity - catalytic activity - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - metabolic process - metabolic process - metabolic process - metabolic process - metabolic process - metabolic process - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - catalytic activity - catalytic activity - catalytic activity - catalytic activity - catalytic activity - catalytic activity - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - metabolic process - metabolic process - metabolic process - metabolic process - metabolic process - metabolic process - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - catalytic activity - catalytic activity - catalytic activity - catalytic activity - catalytic activity - catalytic activity - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - hydrolase activity, hydrolyzing O-glycosyl compounds - metabolic process - metabolic process - metabolic process - metabolic process - metabolic process - metabolic process - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - hydrolase activity - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - carbohydrate metabolic process - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - zinc ion binding - catalytic activity - catalytic activity - catalytic activity - catalytic activity - catalytic activity - catalytic activity - ",
+      "artist": "POPTR_0008s11050",
+      "id": "POPTR_0008s11050",
+      "color": "#088da5",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0006s22670 AT: AT1G11330.1<br>Annotation: S-locus lectin protein kinase family protein<br>GO : protein serine/threonine kinase activity - ATP binding - protein kinase activity - sugar binding - recognition of pollen - protein phosphorylation - plasma membrane - protein autophosphorylation - ",
+      "artist": "POPTR_0006s22670",
+      "id": "POPTR_0006s22670",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_1224s00200 AT: AT1G11330.1<br>Annotation: S-locus lectin protein kinase family protein<br>GO : protein serine/threonine kinase activity - ATP binding - protein kinase activity - protein phosphorylation - ",
+      "artist": "POPTR_1224s00200",
+      "id": "POPTR_1224s00200",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0243s00200 AT: AT1G68740.1<br>Annotation: EXS family protein / ERD1/XPR1/SYG1 family protein<br>GO : phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - ",
+      "artist": "POPTR_0243s00200",
+      "id": "POPTR_0243s00200",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s11040 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0008s11040",
+      "id": "POPTR_0008s11040",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0243s00200 AT: AT1G68740.1<br>Annotation: EXS family protein / ERD1/XPR1/SYG1 family protein<br>GO : phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - ",
+      "artist": "POPTR_0243s00200",
+      "id": "POPTR_0243s00200",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s11040 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0008s11040",
+      "id": "POPTR_0008s11040",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0243s00200 AT: AT1G68740.1<br>Annotation: EXS family protein / ERD1/XPR1/SYG1 family protein<br>GO : phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - ",
+      "artist": "POPTR_0243s00200",
+      "id": "POPTR_0243s00200",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s11040 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0008s11040",
+      "id": "POPTR_0008s11040",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0243s00200 AT: AT1G68740.1<br>Annotation: EXS family protein / ERD1/XPR1/SYG1 family protein<br>GO : phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - ",
+      "artist": "POPTR_0243s00200",
+      "id": "POPTR_0243s00200",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s11040 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0008s11040",
+      "id": "POPTR_0008s11040",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s13080 AT: AT1G70780.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0008s13080",
+      "id": "POPTR_0008s13080",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s13090 AT: AT2G01570.1<br>Annotation: RGA1 (REPRESSOR OF GA1-3 1); protein binding / transcription factor<br>GO : regulation of nitrogen utilization - regulation of nitrogen utilization - response to gibberellin stimulus - response to gibberellin stimulus - response to ethylene stimulus - response to ethylene stimulus - salicylic acid mediated signaling pathway - salicylic acid mediated signaling pathway - phloem transport - phloem transport - response to far red light - response to far red light - response to salt stress - response to salt stress - regulation of oxygen and reactive oxygen species metabolic process - regulation of oxygen and reactive oxygen species metabolic process - negative regulation of gibberellic acid mediated signaling pathway - negative regulation of gibberellic acid mediated signaling pathway - hyperosmotic salinity response - hyperosmotic salinity response - regulation of seed germination - regulation of seed germination - response to abscisic acid stimulus - response to abscisic acid stimulus - jasmonic acid mediated signaling pathway - jasmonic acid mediated signaling pathway - regulation of protein catabolic process - regulation of protein catabolic process - regulation of seed dormancy - regulation of seed dormancy - transcription - transcription - negative regulation of seed germination - negative regulation of seed germination - regulation of transcription - regulation of transcription - regulation of nitrogen utilization - regulation of nitrogen utilization - response to gibberellin stimulus - response to gibberellin stimulus - response to ethylene stimulus - response to ethylene stimulus - salicylic acid mediated signaling pathway - salicylic acid mediated signaling pathway - phloem transport - phloem transport - response to far red light - response to far red light - response to salt stress - response to salt stress - regulation of oxygen and reactive oxygen species metabolic process - regulation of oxygen and reactive oxygen species metabolic process - negative regulation of gibberellic acid mediated signaling pathway - negative regulation of gibberellic acid mediated signaling pathway - hyperosmotic salinity response - hyperosmotic salinity response - regulation of seed germination - regulation of seed germination - response to abscisic acid stimulus - response to abscisic acid stimulus - jasmonic acid mediated signaling pathway - jasmonic acid mediated signaling pathway - regulation of protein catabolic process - regulation of protein catabolic process - regulation of seed dormancy - regulation of seed dormancy - transcription - transcription - negative regulation of seed germination - negative regulation of seed germination - regulation of transcription - regulation of transcription - ",
+      "artist": "POPTR_0008s13090",
+      "id": "POPTR_0008s13090",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0019s02760 AT: AT1G53430.1<br>Annotation: leucine-rich repeat family protein / protein kinase family protein<br>GO : protein serine/threonine kinase activity - protein binding - ATP binding - protein kinase activity - protein phosphorylation - ",
+      "artist": "POPTR_0019s02760",
+      "id": "POPTR_0019s02760",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0019s02750 AT: AT3G14840.2<br>Annotation: leucine-rich repeat family protein / protein kinase family protein<br>GO : ",
+      "artist": "POPTR_0019s02750",
+      "id": "POPTR_0019s02750",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0243s00200 AT: AT1G68740.1<br>Annotation: EXS family protein / ERD1/XPR1/SYG1 family protein<br>GO : phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - ",
+      "artist": "POPTR_0243s00200",
+      "id": "POPTR_0243s00200",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s11040 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0008s11040",
+      "id": "POPTR_0008s11040",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0243s00200 AT: AT1G68740.1<br>Annotation: EXS family protein / ERD1/XPR1/SYG1 family protein<br>GO : phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - ",
+      "artist": "POPTR_0243s00200",
+      "id": "POPTR_0243s00200",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s11040 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0008s11040",
+      "id": "POPTR_0008s11040",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s13070 AT: AT1G70790.1<br>Annotation: C2 domain-containing protein<br>GO : protein binding - ",
+      "artist": "POPTR_0008s13070",
+      "id": "POPTR_0008s13070",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s13080 AT: AT1G70780.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0008s13080",
+      "id": "POPTR_0008s13080",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s13090 AT: AT2G01570.1<br>Annotation: RGA1 (REPRESSOR OF GA1-3 1); protein binding / transcription factor<br>GO : regulation of nitrogen utilization - regulation of nitrogen utilization - response to gibberellin stimulus - response to gibberellin stimulus - response to ethylene stimulus - response to ethylene stimulus - salicylic acid mediated signaling pathway - salicylic acid mediated signaling pathway - phloem transport - phloem transport - response to far red light - response to far red light - response to salt stress - response to salt stress - regulation of oxygen and reactive oxygen species metabolic process - regulation of oxygen and reactive oxygen species metabolic process - negative regulation of gibberellic acid mediated signaling pathway - negative regulation of gibberellic acid mediated signaling pathway - hyperosmotic salinity response - hyperosmotic salinity response - regulation of seed germination - regulation of seed germination - response to abscisic acid stimulus - response to abscisic acid stimulus - jasmonic acid mediated signaling pathway - jasmonic acid mediated signaling pathway - regulation of protein catabolic process - regulation of protein catabolic process - regulation of seed dormancy - regulation of seed dormancy - transcription - transcription - negative regulation of seed germination - negative regulation of seed germination - regulation of transcription - regulation of transcription - regulation of nitrogen utilization - regulation of nitrogen utilization - response to gibberellin stimulus - response to gibberellin stimulus - response to ethylene stimulus - response to ethylene stimulus - salicylic acid mediated signaling pathway - salicylic acid mediated signaling pathway - phloem transport - phloem transport - response to far red light - response to far red light - response to salt stress - response to salt stress - regulation of oxygen and reactive oxygen species metabolic process - regulation of oxygen and reactive oxygen species metabolic process - negative regulation of gibberellic acid mediated signaling pathway - negative regulation of gibberellic acid mediated signaling pathway - hyperosmotic salinity response - hyperosmotic salinity response - regulation of seed germination - regulation of seed germination - response to abscisic acid stimulus - response to abscisic acid stimulus - jasmonic acid mediated signaling pathway - jasmonic acid mediated signaling pathway - regulation of protein catabolic process - regulation of protein catabolic process - regulation of seed dormancy - regulation of seed dormancy - transcription - transcription - negative regulation of seed germination - negative regulation of seed germination - regulation of transcription - regulation of transcription - ",
+      "artist": "POPTR_0008s13090",
+      "id": "POPTR_0008s13090",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s09060 AT: AT2G26640.1<br>Annotation: KCS11 (3-KETOACYL-COA SYNTHASE 11); acyltransferase/ catalytic/ transferase, transferring acyl groups other than amino-acyl groups<br>GO : response to wounding - membrane - fatty acid elongase activity - metabolic process - response to osmotic stress - response to cold - response to light stimulus - catalytic activity - suberin biosynthetic process - acyltransferase activity - fatty acid biosynthetic process - transferase activity, transferring acyl groups other than amino-acyl groups - lipid biosynthetic process - ",
+      "artist": "POPTR_0010s09060",
+      "id": "POPTR_0010s09060",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0005s10730 AT: AT2G17690.1<br>Annotation: SDC (SUPPRESSOR OF DRM1 DRM2 CMT3)<br>GO : protein binding - DNA recombination - ATP-dependent helicase activity - ",
+      "artist": "POPTR_0005s10730",
+      "id": "POPTR_0005s10730",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s15790 AT: AT3G06880.1<br>Annotation: nucleotide binding<br>GO : binding - binding - binding - binding - ",
+      "artist": "POPTR_0015s15790",
+      "id": "POPTR_0015s15790",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s15780 AT: AT1G31280.1<br>Annotation: AGO2 (argonaute 2); nucleic acid binding<br>GO : protein binding - protein binding - nucleic acid binding - nucleic acid binding - protein binding - protein binding - nucleic acid binding - nucleic acid binding - ",
+      "artist": "POPTR_0015s15780",
+      "id": "POPTR_0015s15780",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s00420 AT: AT4G22260.1<br>Annotation: IM (IMMUTANS); alternative oxidase<br>GO : plastid organization - mitochondrial envelope - respiratory gaseous exchange - carotenoid biosynthetic process - oxidation-reduction process - thylakoid - ",
+      "artist": "POPTR_0004s00420",
+      "id": "POPTR_0004s00420",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s00440 AT: AT1G05000.1<br>Annotation: tyrosine specific protein phosphatase family protein<br>GO : dephosphorylation - protein tyrosine phosphatase activity - phosphatase activity - ",
+      "artist": "POPTR_0004s00440",
+      "id": "POPTR_0004s00440",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s00450 AT: AT1G62390.1<br>Annotation: octicosapeptide/Phox/Bem1p (PB1) domain-containing protein / tetratricopeptide repeat (TPR)-containing protein<br>GO : protein binding - binding - ",
+      "artist": "POPTR_0004s00450",
+      "id": "POPTR_0004s00450",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s01980 AT: AT4G04890.1<br>Annotation: PDF2 (PROTODERMAL FACTOR 2); DNA binding / transcription factor<br>GO : epidermal cell differentiation - epidermal cell differentiation - nucleus - nucleus - DNA binding - DNA binding - cotyledon development - cotyledon development - regulation of transcription, DNA-dependent - regulation of transcription, DNA-dependent - transcription regulator activity - transcription regulator activity - transcription, DNA-dependent - transcription, DNA-dependent - protein binding - protein binding - sequence-specific DNA binding - sequence-specific DNA binding - regulation of transcription - regulation of transcription - sequence-specific DNA binding transcription factor activity - sequence-specific DNA binding transcription factor activity - epidermal cell differentiation - epidermal cell differentiation - nucleus - nucleus - DNA binding - DNA binding - cotyledon development - cotyledon development - regulation of transcription, DNA-dependent - regulation of transcription, DNA-dependent - transcription regulator activity - transcription regulator activity - transcription, DNA-dependent - transcription, DNA-dependent - protein binding - protein binding - sequence-specific DNA binding - sequence-specific DNA binding - regulation of transcription - regulation of transcription - sequence-specific DNA binding transcription factor activity - sequence-specific DNA binding transcription factor activity - ",
+      "artist": "POPTR_0004s01980",
+      "id": "POPTR_0004s01980",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s15570 AT: AT1G03670.1<br>Annotation: ankyrin repeat family protein<br>GO : protein binding - protein binding - protein binding - protein binding - ",
+      "artist": "POPTR_0015s15570",
+      "id": "POPTR_0015s15570",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s15560 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0015s15560",
+      "id": "POPTR_0015s15560",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0012s10910 AT: AT3G08880.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0012s10910",
+      "id": "POPTR_0012s10910",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0012s10920 AT: AT1G07080.1<br>Annotation: gamma interferon responsive lysosomal thiol reductase family protein / GILT family protein<br>GO : ",
+      "artist": "POPTR_0012s10920",
+      "id": "POPTR_0012s10920",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0012s10930 AT: AT1G65030.1<br>Annotation: transducin family protein / WD-40 repeat family protein<br>GO : CUL4 RING ubiquitin ligase complex - nucleolus - protein binding - ",
+      "artist": "POPTR_0012s10930",
+      "id": "POPTR_0012s10930",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0012s10940 AT: AT1G31220.1<br>Annotation: phosphoribosylglycinamide formyltransferase<br>GO : biosynthetic process - methyltransferase activity - hydroxymethyl-, formyl- and related transferase activity - transferase activity - de novo IMP biosynthetic process - methylation - phosphoribosylglycinamide formyltransferase activity - chloroplast - ",
+      "artist": "POPTR_0012s10940",
+      "id": "POPTR_0012s10940",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0012s10950 AT: AT1G07080.1<br>Annotation: gamma interferon responsive lysosomal thiol reductase family protein / GILT family protein<br>GO : ",
+      "artist": "POPTR_0012s10950",
+      "id": "POPTR_0012s10950",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0012s10960 AT: AT4G23490.1<br>Annotation: fringe-related protein<br>GO : ",
+      "artist": "POPTR_0012s10960",
+      "id": "POPTR_0012s10960",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0012s10970 AT: AT1G29400.1<br>Annotation: AML5 (ARABIDOPSIS MEI2-LIKE PROTEIN 5); RNA binding / nucleic acid binding / nucleotide binding<br>GO : nucleic acid binding - ",
+      "artist": "POPTR_0012s10970",
+      "id": "POPTR_0012s10970",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0003s11850 AT: AT3G58630.1<br>Annotation: transcription factor<br>GO : transport - membrane - transmembrane transport - transporter activity - ",
+      "artist": "POPTR_0003s11850",
+      "id": "POPTR_0003s11850",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0003s11860 AT: AT1G04110.1<br>Annotation: SDD1 (STOMATAL DENSITY AND DISTRIBUTION); serine-type endopeptidase<br>GO : serine-type endopeptidase activity - proteolysis - identical protein binding - negative regulation of catalytic activity - ",
+      "artist": "POPTR_0003s11860",
+      "id": "POPTR_0003s11860",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0003s11870 AT: AT1G04110.1<br>Annotation: SDD1 (STOMATAL DENSITY AND DISTRIBUTION); serine-type endopeptidase<br>GO : serine-type endopeptidase activity - proteolysis - identical protein binding - negative regulation of catalytic activity - ",
+      "artist": "POPTR_0003s11870",
+      "id": "POPTR_0003s11870",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0003s11880 AT: AT1G12530.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0003s11880",
+      "id": "POPTR_0003s11880",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0003s11890 AT: AT2G45630.2<br>Annotation: oxidoreductase family protein<br>GO : oxidoreductase activity, acting on the CH-OH group of donors, NAD or NADP as acceptor - metabolic process - catalytic activity - cofactor binding - NAD binding - binding - ",
+      "artist": "POPTR_0003s11890",
+      "id": "POPTR_0003s11890",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s19410 AT: AT3G56010.1<br>Annotation: unknown protein<br>GO : chloroplast thylakoid membrane - ",
+      "artist": "POPTR_0010s19410",
+      "id": "POPTR_0010s19410",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s19420 AT: AT3G11130.1<br>Annotation: clathrin heavy chain, putative<br>GO : membrane - clathrin coat of trans-Golgi network vesicle - binding - vesicle-mediated transport - vacuole - intracellular protein transport - clathrin coat of coated pit - structural molecule activity - plasma membrane - chloroplast - ",
+      "artist": "POPTR_0010s19420",
+      "id": "POPTR_0010s19420",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s19430 AT: AT2G40180.1<br>Annotation: ATHPP2C5; catalytic/ protein serine/threonine phosphatase<br>GO : nucleus - metabolic process - abscisic acid mediated signaling pathway - catalytic activity - ",
+      "artist": "POPTR_0010s19430",
+      "id": "POPTR_0010s19430",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s01970 AT: AT4G04885.1<br>Annotation: PCFS4 (PCF11P-SIMILAR PROTEIN 4); zinc ion binding<br>GO : nucleus - intracellular - zinc ion binding - mRNA polyadenylation - cytoplasm - positive regulation of flower development - ",
+      "artist": "POPTR_0004s01970",
+      "id": "POPTR_0004s01970",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s01980 AT: AT4G04890.1<br>Annotation: PDF2 (PROTODERMAL FACTOR 2); DNA binding / transcription factor<br>GO : epidermal cell differentiation - epidermal cell differentiation - nucleus - nucleus - DNA binding - DNA binding - cotyledon development - cotyledon development - regulation of transcription, DNA-dependent - regulation of transcription, DNA-dependent - transcription regulator activity - transcription regulator activity - transcription, DNA-dependent - transcription, DNA-dependent - protein binding - protein binding - sequence-specific DNA binding - sequence-specific DNA binding - regulation of transcription - regulation of transcription - sequence-specific DNA binding transcription factor activity - sequence-specific DNA binding transcription factor activity - epidermal cell differentiation - epidermal cell differentiation - nucleus - nucleus - DNA binding - DNA binding - cotyledon development - cotyledon development - regulation of transcription, DNA-dependent - regulation of transcription, DNA-dependent - transcription regulator activity - transcription regulator activity - transcription, DNA-dependent - transcription, DNA-dependent - protein binding - protein binding - sequence-specific DNA binding - sequence-specific DNA binding - regulation of transcription - regulation of transcription - sequence-specific DNA binding transcription factor activity - sequence-specific DNA binding transcription factor activity - ",
+      "artist": "POPTR_0004s01980",
+      "id": "POPTR_0004s01980",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0243s00200 AT: AT1G68740.1<br>Annotation: EXS family protein / ERD1/XPR1/SYG1 family protein<br>GO : phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - phosphate transport - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - cellular response to phosphate starvation - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - integral to membrane - ",
+      "artist": "POPTR_0243s00200",
+      "id": "POPTR_0243s00200",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0008s11040 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0008s11040",
+      "id": "POPTR_0008s11040",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s13990 AT: AT1G75290.1<br>Annotation: oxidoreductase, acting on NADH or NADPH<br>GO : metabolic process - cellular metabolic process - catalytic activity - binding - coenzyme binding - ",
+      "artist": "POPTR_0010s13990",
+      "id": "POPTR_0010s13990",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s14000 AT: AT1G68820.1<br>Annotation: membrane protein, putative<br>GO : protein binding - zinc ion binding - ",
+      "artist": "POPTR_0010s14000",
+      "id": "POPTR_0010s14000",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0010s14010 AT: AT1G68810.1<br>Annotation: basic helix-loop-helix (bHLH) family protein<br>GO : nucleus - transcription regulator activity - regulation of transcription - ",
+      "artist": "POPTR_0010s14010",
+      "id": "POPTR_0010s14010",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0001s11540 AT: AT5G48655.1<br>Annotation: zinc finger (C3HC4-type RING finger) family protein<br>GO : protein binding - zinc ion binding - ",
+      "artist": "POPTR_0001s11540",
+      "id": "POPTR_0001s11540",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0001s11520 AT: AT1G31335.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0001s11520",
+      "id": "POPTR_0001s11520",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0001s11510 AT: AT4G24120.1<br>Annotation: YSL1 (YELLOW STRIPE LIKE 1); oligopeptide transporter<br>GO : transmembrane transport - metal ion transmembrane transporter activity - developmental process involved in reproduction - iron-nicotianamine transmembrane transporter activity - response to iron ion - metal ion transport - iron ion transmembrane transporter activity - seed development - plasma membrane - ",
+      "artist": "POPTR_0001s11510",
+      "id": "POPTR_0001s11510",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0001s11500 AT: AT4G24110.1<br>Annotation: unknown protein<br>GO : response to karrikin - ",
+      "artist": "POPTR_0001s11500",
+      "id": "POPTR_0001s11500",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s14940 AT: AT5G44860.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0015s14940",
+      "id": "POPTR_0015s14940",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s14930 AT: AT3G58480.1<br>Annotation: calmodulin-binding family protein<br>GO : ",
+      "artist": "POPTR_0015s14930",
+      "id": "POPTR_0015s14930",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s14920 AT: (blank)<br>Annotation: (blank)<br>GO : protein binding - ",
+      "artist": "POPTR_0015s14920",
+      "id": "POPTR_0015s14920",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s01940 AT: AT1G70880.1<br>Annotation: Bet v I allergen family protein<br>GO : defense response - defense response - response to biotic stimulus - response to biotic stimulus - defense response - defense response - response to biotic stimulus - response to biotic stimulus - ",
+      "artist": "POPTR_0004s01940",
+      "id": "POPTR_0004s01940",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s13020 AT: AT5G52400.1<br>Annotation: CYP715A1; electron carrier/ heme binding / iron ion binding / monooxygenase/ oxygen binding<br>GO : electron carrier activity - electron carrier activity - heme binding - heme binding - iron ion binding - iron ion binding - monooxygenase activity - monooxygenase activity - oxidation-reduction process - oxidation-reduction process - electron carrier activity - electron carrier activity - heme binding - heme binding - iron ion binding - iron ion binding - monooxygenase activity - monooxygenase activity - oxidation-reduction process - oxidation-reduction process - ",
+      "artist": "POPTR_0015s13020",
+      "id": "POPTR_0015s13020",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s13010 AT: AT4G20850.1<br>Annotation: TPP2 (TRIPEPTIDYL PEPTIDASE II); tripeptidyl-peptidase<br>GO : ",
+      "artist": "POPTR_0015s13010",
+      "id": "POPTR_0015s13010",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s13000 AT: AT4G20850.1<br>Annotation: TPP2 (TRIPEPTIDYL PEPTIDASE II); tripeptidyl-peptidase<br>GO : membrane - membrane - membrane - serine-type endopeptidase activity - serine-type endopeptidase activity - serine-type endopeptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - cytoplasm - cytoplasm - cytoplasm - vacuole - vacuole - vacuole - proteolysis - proteolysis - proteolysis - plasma membrane - plasma membrane - plasma membrane - cytosolic ribosome - cytosolic ribosome - cytosolic ribosome - chloroplast - chloroplast - chloroplast - membrane - membrane - membrane - serine-type endopeptidase activity - serine-type endopeptidase activity - serine-type endopeptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - cytoplasm - cytoplasm - cytoplasm - vacuole - vacuole - vacuole - proteolysis - proteolysis - proteolysis - plasma membrane - plasma membrane - plasma membrane - cytosolic ribosome - cytosolic ribosome - cytosolic ribosome - chloroplast - chloroplast - chloroplast - membrane - membrane - membrane - serine-type endopeptidase activity - serine-type endopeptidase activity - serine-type endopeptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - cytoplasm - cytoplasm - cytoplasm - vacuole - vacuole - vacuole - proteolysis - proteolysis - proteolysis - plasma membrane - plasma membrane - plasma membrane - cytosolic ribosome - cytosolic ribosome - cytosolic ribosome - chloroplast - chloroplast - chloroplast - ",
+      "artist": "POPTR_0015s13000",
+      "id": "POPTR_0015s13000",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s12990 AT: AT5G23870.3<br>Annotation: pectinacetylesterase family protein<br>GO : oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor - oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor - plant-type cell wall - plant-type cell wall - oxidation-reduction process - oxidation-reduction process - oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor - oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor - plant-type cell wall - plant-type cell wall - oxidation-reduction process - oxidation-reduction process - ",
+      "artist": "POPTR_0015s12990",
+      "id": "POPTR_0015s12990",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0006s00280 AT: AT4G17150.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0006s00280",
+      "id": "POPTR_0006s00280",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0006s00290 AT: AT2G01060.1<br>Annotation: myb family transcription factor<br>GO : nucleus - nucleus - DNA binding - DNA binding - protein binding - protein binding - regulation of transcription - regulation of transcription - nucleus - nucleus - DNA binding - DNA binding - protein binding - protein binding - regulation of transcription - regulation of transcription - ",
+      "artist": "POPTR_0006s00290",
+      "id": "POPTR_0006s00290",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0006s00300 AT: AT3G54780.1<br>Annotation: zinc finger (C3HC4-type RING finger) family protein<br>GO : protein binding - protein binding - zinc ion binding - zinc ion binding - protein binding - protein binding - zinc ion binding - zinc ion binding - ",
+      "artist": "POPTR_0006s00300",
+      "id": "POPTR_0006s00300",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0006s00310 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0006s00310",
+      "id": "POPTR_0006s00310",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s15570 AT: AT1G03670.1<br>Annotation: ankyrin repeat family protein<br>GO : protein binding - protein binding - protein binding - protein binding - ",
+      "artist": "POPTR_0015s15570",
+      "id": "POPTR_0015s15570",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s13020 AT: AT5G52400.1<br>Annotation: CYP715A1; electron carrier/ heme binding / iron ion binding / monooxygenase/ oxygen binding<br>GO : electron carrier activity - electron carrier activity - heme binding - heme binding - iron ion binding - iron ion binding - monooxygenase activity - monooxygenase activity - oxidation-reduction process - oxidation-reduction process - electron carrier activity - electron carrier activity - heme binding - heme binding - iron ion binding - iron ion binding - monooxygenase activity - monooxygenase activity - oxidation-reduction process - oxidation-reduction process - ",
+      "artist": "POPTR_0015s13020",
+      "id": "POPTR_0015s13020",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s13010 AT: AT4G20850.1<br>Annotation: TPP2 (TRIPEPTIDYL PEPTIDASE II); tripeptidyl-peptidase<br>GO : ",
+      "artist": "POPTR_0015s13010",
+      "id": "POPTR_0015s13010",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s13000 AT: AT4G20850.1<br>Annotation: TPP2 (TRIPEPTIDYL PEPTIDASE II); tripeptidyl-peptidase<br>GO : membrane - membrane - membrane - serine-type endopeptidase activity - serine-type endopeptidase activity - serine-type endopeptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - cytoplasm - cytoplasm - cytoplasm - vacuole - vacuole - vacuole - proteolysis - proteolysis - proteolysis - plasma membrane - plasma membrane - plasma membrane - cytosolic ribosome - cytosolic ribosome - cytosolic ribosome - chloroplast - chloroplast - chloroplast - membrane - membrane - membrane - serine-type endopeptidase activity - serine-type endopeptidase activity - serine-type endopeptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - cytoplasm - cytoplasm - cytoplasm - vacuole - vacuole - vacuole - proteolysis - proteolysis - proteolysis - plasma membrane - plasma membrane - plasma membrane - cytosolic ribosome - cytosolic ribosome - cytosolic ribosome - chloroplast - chloroplast - chloroplast - membrane - membrane - membrane - serine-type endopeptidase activity - serine-type endopeptidase activity - serine-type endopeptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - cytoplasm - cytoplasm - cytoplasm - vacuole - vacuole - vacuole - proteolysis - proteolysis - proteolysis - plasma membrane - plasma membrane - plasma membrane - cytosolic ribosome - cytosolic ribosome - cytosolic ribosome - chloroplast - chloroplast - chloroplast - ",
+      "artist": "POPTR_0015s13000",
+      "id": "POPTR_0015s13000",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s15790 AT: AT3G06880.1<br>Annotation: nucleotide binding<br>GO : binding - binding - binding - binding - ",
+      "artist": "POPTR_0015s15790",
+      "id": "POPTR_0015s15790",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s15780 AT: AT1G31280.1<br>Annotation: AGO2 (argonaute 2); nucleic acid binding<br>GO : protein binding - protein binding - nucleic acid binding - nucleic acid binding - protein binding - protein binding - nucleic acid binding - nucleic acid binding - ",
+      "artist": "POPTR_0015s15780",
+      "id": "POPTR_0015s15780",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0019s05500 AT: AT5G35910.1<br>Annotation: 3-5 exonuclease domain-containing protein / helicase and RNase D C-terminal domain-containing protein / HRDC domain-containing protein<br>GO : RNA processing - nuclear exosome (RNase complex) - intracellular - nucleobase, nucleoside, nucleotide and nucleic acid metabolic process - catalytic activity - nucleic acid binding - 3-5 exonuclease activity - nucleotide binding - cellular metabolic process - ",
+      "artist": "POPTR_0019s05500",
+      "id": "POPTR_0019s05500",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s13000 AT: AT4G20850.1<br>Annotation: TPP2 (TRIPEPTIDYL PEPTIDASE II); tripeptidyl-peptidase<br>GO : membrane - membrane - membrane - serine-type endopeptidase activity - serine-type endopeptidase activity - serine-type endopeptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - cytoplasm - cytoplasm - cytoplasm - vacuole - vacuole - vacuole - proteolysis - proteolysis - proteolysis - plasma membrane - plasma membrane - plasma membrane - cytosolic ribosome - cytosolic ribosome - cytosolic ribosome - chloroplast - chloroplast - chloroplast - membrane - membrane - membrane - serine-type endopeptidase activity - serine-type endopeptidase activity - serine-type endopeptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - cytoplasm - cytoplasm - cytoplasm - vacuole - vacuole - vacuole - proteolysis - proteolysis - proteolysis - plasma membrane - plasma membrane - plasma membrane - cytosolic ribosome - cytosolic ribosome - cytosolic ribosome - chloroplast - chloroplast - chloroplast - membrane - membrane - membrane - serine-type endopeptidase activity - serine-type endopeptidase activity - serine-type endopeptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - tripeptidyl-peptidase activity - cytoplasm - cytoplasm - cytoplasm - vacuole - vacuole - vacuole - proteolysis - proteolysis - proteolysis - plasma membrane - plasma membrane - plasma membrane - cytosolic ribosome - cytosolic ribosome - cytosolic ribosome - chloroplast - chloroplast - chloroplast - ",
+      "artist": "POPTR_0015s13000",
+      "id": "POPTR_0015s13000",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s12990 AT: AT5G23870.3<br>Annotation: pectinacetylesterase family protein<br>GO : oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor - oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor - plant-type cell wall - plant-type cell wall - oxidation-reduction process - oxidation-reduction process - oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor - oxidoreductase activity, acting on the aldehyde or oxo group of donors, NAD or NADP as acceptor - plant-type cell wall - plant-type cell wall - oxidation-reduction process - oxidation-reduction process - ",
+      "artist": "POPTR_0015s12990",
+      "id": "POPTR_0015s12990",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s12980 AT: AT4G33410.1<br>Annotation: signal peptide peptidase family protein<br>GO : endosome - integral to membrane - aspartic-type endopeptidase activity - ",
+      "artist": "POPTR_0015s12980",
+      "id": "POPTR_0015s12980",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0015s12970 AT: AT5G23890.1<br>Annotation: unknown protein<br>GO : chloroplast thylakoid membrane - mitochondrion - plastid - chloroplast envelope - chloroplast - ",
+      "artist": "POPTR_0015s12970",
+      "id": "POPTR_0015s12970",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0009s16480 AT: AT2G27460.1<br>Annotation: sec23/sec24 transport family protein<br>GO : intracellular protein transport - protein binding - COPII vesicle coat - zinc ion binding - ER to Golgi vesicle-mediated transport - ",
+      "artist": "POPTR_0009s16480",
+      "id": "POPTR_0009s16480",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0009s16490 AT: AT3G52660.1<br>Annotation: RNA recognition motif (RRM)-containing protein<br>GO : nucleotide binding - nucleic acid binding - ",
+      "artist": "POPTR_0009s16490",
+      "id": "POPTR_0009s16490",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0009s16500 AT: AT2G27470.1<br>Annotation: NF-YB11 (NUCLEAR FACTOR Y, SUBUNIT B11); transcription factor<br>GO : nucleus - DNA binding - intracellular - sequence-specific DNA binding - transcription initiation factor activity - transcription initiation, DNA-dependent - ",
+      "artist": "POPTR_0009s16500",
+      "id": "POPTR_0009s16500",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0009s16510 AT: AT2G27480.1<br>Annotation: calcium ion binding<br>GO : calcium ion binding - ",
+      "artist": "POPTR_0009s16510",
+      "id": "POPTR_0009s16510",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0009s16530 AT: AT2G27500.1<br>Annotation: glycosyl hydrolase family 17 protein<br>GO : nucleus - catalytic activity - cytoplasm - hydrolase activity, hydrolyzing O-glycosyl compounds - cation binding - hydrolase activity - carbohydrate metabolic process - anchored to plasma membrane - ",
+      "artist": "POPTR_0009s16530",
+      "id": "POPTR_0009s16530",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0006s00280 AT: AT4G17150.1<br>Annotation: unknown protein<br>GO : ",
+      "artist": "POPTR_0006s00280",
+      "id": "POPTR_0006s00280",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0006s00290 AT: AT2G01060.1<br>Annotation: myb family transcription factor<br>GO : nucleus - nucleus - DNA binding - DNA binding - protein binding - protein binding - regulation of transcription - regulation of transcription - nucleus - nucleus - DNA binding - DNA binding - protein binding - protein binding - regulation of transcription - regulation of transcription - ",
+      "artist": "POPTR_0006s00290",
+      "id": "POPTR_0006s00290",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0006s00300 AT: AT3G54780.1<br>Annotation: zinc finger (C3HC4-type RING finger) family protein<br>GO : protein binding - protein binding - zinc ion binding - zinc ion binding - protein binding - protein binding - zinc ion binding - zinc ion binding - ",
+      "artist": "POPTR_0006s00300",
+      "id": "POPTR_0006s00300",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0006s00310 AT: (blank)<br>Annotation: (blank)<br>GO : ",
+      "artist": "POPTR_0006s00310",
+      "id": "POPTR_0006s00310",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0004s01940 AT: AT1G70880.1<br>Annotation: Bet v I allergen family protein<br>GO : defense response - defense response - response to biotic stimulus - response to biotic stimulus - defense response - defense response - response to biotic stimulus - response to biotic stimulus - ",
+      "artist": "POPTR_0004s01940",
+      "id": "POPTR_0004s01940",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0002s05560 AT: AT3G52420.1<br>Annotation: OEP7 (OUTER ENVELOPE MEMBRANE PROTEIN 7)<br>GO : integral to chloroplast outer membrane - ",
+      "artist": "POPTR_0002s05560",
+      "id": "POPTR_0002s05560",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0002s05570 AT: AT4G02840.1<br>Annotation: small nuclear ribonucleoprotein D1, putative / snRNP core protein D1, putative / Sm protein D1, putative<br>GO : membrane - nucleolus - plasma membrane - ",
+      "artist": "POPTR_0002s05570",
+      "id": "POPTR_0002s05570",
+      "color": "#FF33FF",
+      "playcount": 1
+      }, 
+      {
+      "match": 1.0,
+      "name": "POPTR_0002s05580 AT: AT1G03220.1<br>Annotation: extracellular dermal glycoprotein, putative / EDGP, putative<br>GO : proteolysis - aspartic-type endopeptidase activity - ",
+      "artist": "POPTR_0002s05580",
+      "id": "POPTR_0002s05580",
+      "color": "#FF33FF",
+      "playcount": 1
+      }],
+"links": [
+{
+"source": "POPTR_0005s10720", 
+"target": "POPTR_0008s11050"
+}
+]
+}
